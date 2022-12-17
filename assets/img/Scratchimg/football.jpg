@@ -1,0 +1,1306 @@
+
+
+
+
+
+
+
+
+    
+<!DOCTYPE html>
+<!-- Powered by Edlio -->
+    
+        <html lang="en" class="edlio desktop">
+    
+    <!-- prod-cms-tomcat-v2022121302-005 -->
+<head>
+<script>
+edlioCorpDataLayer = [{
+"CustomerType": "Single Site",
+"AccountExternalId": "0010b00002HJF9AAAX",
+"WebsiteName": "Bingham High School",
+"WebsiteId": "BINGHAM",
+"DistrictExternalId": "",
+"DistrictName": "",
+"DistrictWebsiteId": ""
+}];
+</script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl+ '&gtm_auth=53ANkNZTATx5fKdCYoahug&gtm_preview=env-1&gtm_cookies_win=x';f.parentNode.insertBefore(j,f);
+})(window,document,'script','edlioCorpDataLayer','GTM-KFWJKNQ');</script>
+
+
+<title>Bingham High School</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="description" content="Bingham High School">
+<meta name="generator" content="Edlio CMS">
+<meta name="referrer" content="always">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+<!--[if lt IE 9]><script src="/apps/js/common/html5shiv-pack-1670958788015.js"></script><![endif]-->
+<link rel="stylesheet" href="/apps/shared/main-pack-1670958788015.css" type="text/css">
+<link rel="stylesheet" href="/shared/main.css" type="text/css">
+<link rel="stylesheet" href="/apps/webapps/global/public/css/site-pack-1670958788015.css" type="text/css">
+<link rel="stylesheet" href="/apps/webapps/global/public/css/temp-pack-1670958788015.css" type="text/css">
+<link rel="stylesheet" href="/apps/shared/web_apps-pack-1670958788015.css" type="text/css">
+<link rel="stylesheet" href="/apps/webapps/features/stickybins/css/public/main-pack-1670958788015.css" type="text/css">
+<script src="/apps/js/common/common-pack-1670958788015.js" type="text/javascript" charset="utf-8"></script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-63987206-1"></script>
+<script>
+                   window.dataLayer = window.dataLayer || [];
+                   function gtag(){dataLayer.push(arguments);}
+                   gtag('js', new Date());
+                   gtag('config', 'UA-63987206-1');
+                </script>
+<script src="/apps/js/common/list-pack.js"></script>
+<script type="text/javascript">
+                window.edlio = window.edlio || {};
+                window.edlio.isEdgeToEdge = false;
+            </script>
+
+
+</head>
+
+
+    
+	
+		
+		
+			
+
+
+
+<body class="index">
+
+<header id="header_main" class="site-header2a site-header " aria-label="Main Site Header">
+	<div class="header-main-inner">
+
+		<a class="skip-to-content-link" href="#content_main">Skip to main content</a>
+
+			<div class="school-name header-title header-logo logo-replacement">
+				<a href="/">
+					<span class="school-name-inner">
+						Bingham High School
+					</span>
+				</a>
+			</div>
+			<nav id="sitenav_main" class="sitenav nav-group column" aria-label="Main Site Navigation">
+				<button id="sitenav_main_mobile_toggle" class="nav-mobile-toggle accessible-megamenu-toggle animated"><span class="nav-mobile-toggle-inner">Main Menu Toggle</span></button>
+				<ul class="nav-menu">
+					
+						<li class="nav-item">
+							<a href="/apps/pages/index.jsp?uREC_ID=189589&type=d&pREC_ID=393207" ><span class="nav-item-inner">About Us</span></a>
+							
+								<div class="sub-nav">
+									<ul class="sub-nav-group">
+										
+											
+												<li class="sub-nav-item"><a href="https://4.files.edl.io/0ff9/01/19/22/144141-5b2db727-d8f7-47a2-ba40-1391339e69d2.pdf"  target="_blank">School Profile 2021-2022</a></li>
+											
+										
+											
+												<li class="sub-nav-item"><a href="/apps/pages/index.jsp?uREC_ID=189549&type=d&pREC_ID=staff" >Administration</a></li>
+											
+										
+											
+												<li class="sub-nav-item"><a href="/apps/departments/" >Departments</a></li>
+											
+										
+											
+												<li class="sub-nav-item"><a href="/apps/staff/" >Staff Directory</a></li>
+											
+										
+											
+												<li class="sub-nav-item"><a href="/apps/maps/" >Directions</a></li>
+											
+										
+											
+												<li class="sub-nav-item"><a href="/apps/pages/index.jsp?uREC_ID=214387&type=d&pREC_ID=474414" >School History</a></li>
+											
+										
+											
+												<li class="sub-nav-item"><a href="/apps/pages/index.jsp?uREC_ID=2702122&type=d" >Educator Licensing</a></li>
+											
+										
+									</ul>
+								</div>
+							
+						</li>
+					
+						<li class="nav-item">
+							<a href="/apps/pages/index.jsp?uREC_ID=189449&type=d" ><span class="nav-item-inner">Registration</span></a>
+							
+								<div class="sub-nav">
+									<ul class="sub-nav-group">
+										
+											
+												<li class="sub-nav-item"><a href="https://binghamcounseling.org" >Guidance/Counseling Home</a></li>
+											
+										
+											
+												<li class="sub-nav-item"><a href="/apps/pages/index.jsp?uREC_ID=189449&type=d&pREC_ID=456391" >2022-2023 Registration Information</a></li>
+											
+										
+											
+												<li class="sub-nav-item"><a href="https://binghamcounseling.org/classroom-presentations/"  target="_blank">Classroom Presentations</a></li>
+											
+										
+											
+												<li class="sub-nav-item"><a href="https://4.files.edl.io/f1bd/12/05/22/211721-966ae770-66f3-4cdf-9733-99b6d8489bf6.pdf" >Course Catalog</a></li>
+											
+										
+											
+												<li class="sub-nav-item"><a href="https://4.files.edl.io/4869/11/29/22/174910-a002535b-2537-46d9-85a3-3e1000bee4c7.pdf"  target="_blank">Course Schedule by Teacher/ Department</a></li>
+											
+										
+											
+												<li class="sub-nav-item"><a href="https://binghamcounseling.org/drivers-education-class/"  target="_blank">Drivers Education</a></li>
+											
+										
+											
+												<li class="sub-nav-item"><a href="https://binghamcounseling.org/registering-a-new-student/"  target="_blank">New Student Enrollment</a></li>
+											
+										
+											
+												<li class="sub-nav-item"><a href="https://fees.jordandistrict.org/schedule/high/"  target="_blank">Student Fees</a></li>
+											
+										
+									</ul>
+								</div>
+							
+						</li>
+					
+						<li class="nav-item">
+							<a href="/apps/departments/index.jsp?show=CLU" ><span class="nav-item-inner">Activities</span></a>
+							
+								<div class="sub-nav">
+									<ul class="sub-nav-group">
+										
+											
+												<li class="sub-nav-item"><a href="https://docs.google.com/document/d/e/2PACX-1vTL8nPf0UEfE_IYXNFTLYV1BhmkK2cjBXJB3LkZ5w3ZK0N1AAIudaeQYUEBx3Uj_tejp8Dc5OlJ6AvY/pub" >Assembly Schedule</a></li>
+											
+										
+											
+												<li class="sub-nav-item"><a href="http://binghamballroomteam.weebly.com/"  target="_blank">Ballroom Team</a></li>
+											
+										
+											
+												<li class="sub-nav-item"><a href="/apps/pages/index.jsp?uREC_ID=189450&type=d&pREC_ID=423246" >Bands</a></li>
+											
+										
+											
+												<li class="sub-nav-item"><a href="http://binghamprospector.org/"  target="_blank">Prospector</a></li>
+											
+										
+											
+												<li class="sub-nav-item"><a href="/apps/pages/index.jsp?uREC_ID=194940&type=d&pREC_ID=409455" >Cheerleading</a></li>
+											
+										
+											
+												<li class="sub-nav-item"><a href="/apps/departments/index.jsp?show=CLU" >Clubs</a></li>
+											
+										
+											
+												<li class="sub-nav-item"><a href="http://binghamdancecompany.weebly.com/"  target="_blank">Dance Company</a></li>
+											
+										
+											
+												<li class="sub-nav-item"><a href="/apps/pages/index.jsp?uREC_ID=197562&type=d&pREC_ID=423735" >Dances</a></li>
+											
+										
+											
+												<li class="sub-nav-item"><a href="/apps/pages/index.jsp?uREC_ID=255833&type=d" >Debate</a></li>
+											
+										
+											
+												<li class="sub-nav-item"><a href="/apps/pages/index.jsp?uREC_ID=364809&type=d" >Orchestra Program</a></li>
+											
+										
+											
+												<li class="sub-nav-item"><a href="/apps/pages/index.jsp?uREC_ID=189452&type=d&pREC_ID=392985" >Student Government</a></li>
+											
+										
+									</ul>
+								</div>
+							
+						</li>
+					
+						<li class="nav-item">
+							<a href="http://www.binghamathletics.com"  target="_blank"><span class="nav-item-inner">Athletics</span></a>
+							
+								<div class="sub-nav">
+									<ul class="sub-nav-group">
+										
+											
+												<li class="sub-nav-item"><a href="http://www.binghamathletics.com" >Athletics Website</a></li>
+											
+										
+											
+												<li class="sub-nav-item"><a href="https://www.uhsaa.org/index.php"  target="_blank">UHSAA</a></li>
+											
+										
+									</ul>
+								</div>
+							
+						</li>
+					
+						<li class="nav-item">
+							<a href="/apps/departments/index.jsp?show=TDE" ><span class="nav-item-inner">Academics</span></a>
+							
+								<div class="sub-nav">
+									<ul class="sub-nav-group">
+										
+											
+												<li class="sub-nav-item"><a href="/apps/pages/index.jsp?uREC_ID=189548&type=d" >Bell Schedules</a></li>
+											
+										
+											
+												<li class="sub-nav-item"><a href="https://binghamcounseling.org/concurrent-enrollment-ce-classes/"  target="_blank">Concurrent Enrollment</a></li>
+											
+										
+											
+												<li class="sub-nav-item"><a href="https://binghamcounseling.org/2021-2022-course-schedule/"  target="_blank">Course Offerings</a></li>
+											
+										
+											
+												<li class="sub-nav-item"><a href="/apps/pages/index.jsp?uREC_ID=2751409&type=d" >ACT Prep</a></li>
+											
+										
+											
+												<li class="sub-nav-item"><a href="http://www.binghamminers.org/apps/pages/index.jsp?type=d&uREC_ID=415805&pREC_ID=909470"  target="_blank">Driver's Education</a></li>
+											
+										
+											
+												<li class="sub-nav-item"><a href="https://binghamcounseling.org/majors-for-miners-graduation-cords/" >Majors For Miners/Grad Cords</a></li>
+											
+										
+											
+												<li class="sub-nav-item"><a href="https://binghamcounseling.org/graduation-requirements/"  target="_blank">Graduation Requirements</a></li>
+											
+										
+											
+												<li class="sub-nav-item"><a href="https://sites.google.com/jordandistrict.org/binghamnhs/home%2525252520" >National Honor Society</a></li>
+											
+										
+											
+												<li class="sub-nav-item"><a href="https://binghamcounseling.org/scholarships/"  target="_blank">Scholarships</a></li>
+											
+										
+											
+												<li class="sub-nav-item"><a href="http://connect.jordandistrict.org/soep/"  target="_blank">SOEP</a></li>
+											
+										
+											
+												<li class="sub-nav-item"><a href="/apps/pages/index.jsp?uREC_ID=189534&type=d&pREC_ID=393147" >Sterling Scholar</a></li>
+											
+										
+											
+												<li class="sub-nav-item"><a href="https://user.totalregistration.net/AP/450020"  target="_blank">AP Exam Order</a></li>
+											
+										
+									</ul>
+								</div>
+							
+						</li>
+					
+						<li class="nav-item">
+							<a href="/apps/pages/index.jsp?uREC_ID=194369&type=d&pREC_ID=405487" ><span class="nav-item-inner">Resources</span></a>
+							
+								<div class="sub-nav">
+									<ul class="sub-nav-group">
+										
+											
+												<li class="sub-nav-item"><a href="http://policy.jordandistrict.org/as098/"  target="_blank">Anti-Bullying Policy - BHS/JSD</a></li>
+											
+										
+											
+												<li class="sub-nav-item"><a href="/apps/pages/index.jsp?uREC_ID=191080&type=d&pREC_ID=395123" >Attendance </a></li>
+											
+										
+											
+												<li class="sub-nav-item"><a href="https://4.files.edl.io/40cb/08/17/21/164215-192f4078-1840-44d5-b2ac-5cb90979d970.pdf" >Attendance Check-In/Out Procedures</a></li>
+											
+										
+											
+												<li class="sub-nav-item"><a href="https://binghamhigh.tandem.co/" >Calendar/BUR</a></li>
+											
+										
+											
+												<li class="sub-nav-item"><a href="https://4.files.edl.io/fea2/10/05/18/162800-e02e56d6-3212-4b0d-b946-b7ea5e487d16.pdf"  target="_blank">Code of Conduct</a></li>
+											
+										
+											
+												<li class="sub-nav-item"><a href="https://4.files.edl.io/9c86/08/12/21/194436-468f2945-4023-4787-85ca-ece1a1dff856.pdf" >District Calendar</a></li>
+											
+										
+											
+												<li class="sub-nav-item"><a href="https://4.files.edl.io/9d46/08/19/22/161841-d02b21b3-6d31-4ef5-abce-960e1ad60f94.pdf" >Ineligible Bus Request</a></li>
+											
+										
+											
+												<li class="sub-nav-item"><a href="http://jordandistrict.nutrislice.com/menu/bingham"  target="_blank">Lunch Menu</a></li>
+											
+										
+											
+												<li class="sub-nav-item"><a href="/apps/pages/index.jsp?uREC_ID=194197&type=d&pREC_ID=403983" >Map</a></li>
+											
+										
+											
+												<li class="sub-nav-item"><a href="https://4.files.edl.io/c9ba/09/14/21/141621-f670c071-fcb8-4f15-bd47-0bcefbd6c006.pdf"  target="_blank">Math Tutoring</a></li>
+											
+										
+											
+												<li class="sub-nav-item"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdVMU88AOBVWdayQ7vmoGk2xF_E5t3LnwcjSdKebx91ZwhJOg/viewform?usp=sf_link"  target="_blank">Morning Announcement Request Form</a></li>
+											
+										
+											
+												<li class="sub-nav-item"><a href="/apps/pages/index.jsp?uREC_ID=1223799&type=d&pREC_ID=1458634" >Parking</a></li>
+											
+										
+											
+												<li class="sub-nav-item"><a href="/apps/pages/index.jsp?uREC_ID=198113&type=d" >Preschool-Mini Miners</a></li>
+											
+										
+											
+												<li class="sub-nav-item"><a href="/apps/pages/index.jsp?uREC_ID=189552&type=d&pREC_ID=423139" >PTSA</a></li>
+											
+										
+											
+												<li class="sub-nav-item"><a href="/apps/pages/index.jsp?uREC_ID=196236&type=d&pREC_ID=416791" >School Community Council (SCC)</a></li>
+											
+										
+											
+												<li class="sub-nav-item"><a href="https://4.files.edl.io/aebd/08/15/22/190636-a4eb242f-a09d-4a9a-94e7-4675d4b8f265.pdf" >School Prevention Plan</a></li>
+											
+										
+											
+												<li class="sub-nav-item"><a href="https://binghamminers.edlioadmin.com/apps/login/" >Staff Login</a></li>
+											
+										
+											
+												<li class="sub-nav-item"><a href="https://theminebingham.weebly.com/"  target="_blank">The Mine</a></li>
+											
+										
+									</ul>
+								</div>
+							
+						</li>
+					
+						<li class="nav-item">
+							<a href="javascript:;" ><span class="nav-item-inner">Contact Us</span></a>
+							
+						</li>
+					
+					<li class="nav-item icon-only"><a href="/apps/search"><span class="nav-item-inner"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" x="0" y="0" viewBox="0 0 64 64" xml:space="preserve"><path d="M64 54L45.2 35.2C47 31.9 48 28.1 48 24 48 10.7 37.3 0 24 0S0 10.7 0 24s10.7 24 24 24c4.1 0 7.9-1 11.2-2.8L54 64 64 54zM8 24c0-8.8 7.2-16 16-16s16 7.2 16 16 -7.2 16-16 16S8 32.8 8 24z"/></svg>Search</span></a></li>
+				</ul>
+			</nav>
+		</div>
+
+		<div class="topbar">
+			<div class="topbar-inner">
+				
+				<a class="header-phone" href="tel:+18012565100">(801) 256-5100 </a>
+
+				<a href="http://admin.binghamminers.org" class="edlio-login-link"><span class="edlio-logo"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 334.98 366.6"><path d="M334.77 247.52c-.63-4.94-5.66-7.44-10.28-6.85a11.59 11.59 0 00-8 5.43c-23.16 29.34-57.2 46.9-92.85 51.44-43.63 5.57-82.93-7.61-109.26-40.05-6.64-9.83-12.76-21-16.33-33.09-.31-2.48.85-3.88 3.5-4.21 40.32-5.15 142.69-29.55 181.19-48.92 24.25-10 30.9-31.58 28.61-49.51C307.5 92 285.64 67 252.41 54.71l15.81-27.57a10 10 0 00-12.12-13L153.99 43.36l-1.53-35.95A6.94 6.94 0 00140.64 2s-71.27 57.93-90.6 91.53L17.28 72.12A9.67 9.67 0 003.19 81.9s-9.76 66.22 4.85 146.51c13.48 74.06 70.35 110.76 70.35 110.76 29.25 21.26 68.12 31.35 112.25 26.03 65.45-8.37 125.8-51.26 144.15-112.64a14.41 14.41 0 00-.02-5.04zm-248.06-53.7c-.79-6.18-1.47-16.77-.94-23.12 2.52-29 16.31-54.89 42-67.64l13.4-5.12a87 87 0 0112.25-2.47c46.28-5.92 76 31.74 78.72 53.37 1.35 10.5-109.91 44.2-139.66 48-3.32.44-5.46-.55-5.77-3.02z"/></svg>
+Edlio</span> Login</a>
+			</div>
+		</div>
+
+			
+	
+</header>
+
+
+
+<main id="content_main" class="site-content" aria-label="Main Site Content" tabindex="-1">
+
+		
+	
+    
+
+    
+
+    <noscript><iframe title="edlio_products_analytics" src="https://www.googletagmanager.com/ns.html?id=GTM-KFWJKNQ&gtm_auth=53ANkNZTATx5fKdCYoahug&gtm_preview=env-1&gtm_cookies_win=x&CustomerType=Single%20Site&AccountExternalId=0010b00002HJF9AAAX&WebsiteName=Bingham%20High%20School&WebsiteId=BINGHAM"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+
+
+    
+    
+    
+
+
+
+    
+        
+    
+
+    
+
+
+
+
+
+
+
+
+<h1 class="index-title">Bingham High School Home</h1>
+
+<div class="homepage-grid">
+	<div class="homepage-row convert-none">
+		<div class="homepage-row-inner">
+				
+				<section class="shuffle1-container content-container " id="shuffle_main" aria-labelledby="shuffle_main_header">
+					<h2 class="hidden" id="shuffle_main_header">Home Page Main Image Shuffle</h2>
+					
+					<div class="slick-container shuffle-main "
+						data-slick='{
+							"autoplay": true,
+							"autoplaySpeed": 3000,
+							
+							"arrows": false,
+							"dots": false,
+							"dotsClass": "slick-dots slick-dots-bottom",
+							
+							
+							"fade": true
+
+						}' >
+						
+							<figure class="shuffle-slide navigation-type-0 navigation-position-bottom">
+								
+								<img class="shuffle-image" src="https://3.files.edl.io/99af/22/03/29/200152-75ba9b89-ce98-4f8c-9b73-cc176769dde6.jpg" alt="" />
+								
+								
+								<figcaption class="shuffle-caption caption-position-top">
+									<p>Latinos In Action</p>
+								</figcaption>
+								
+							</figure>
+						
+							<figure class="shuffle-slide navigation-type-0 navigation-position-bottom">
+								
+								<img class="shuffle-image" src="https://3.files.edl.io/f4c0/22/03/31/170123-d88ca7fc-19a3-405f-9ef8-a1b83ae6d048.JPG" alt="" />
+								
+								
+								<figcaption class="shuffle-caption caption-position-top">
+									<p>BOYS SOCCER</p>
+								</figcaption>
+								
+							</figure>
+						
+							<figure class="shuffle-slide navigation-type-0 navigation-position-bottom">
+								
+								<img class="shuffle-image" src="https://3.files.edl.io/da42/22/02/08/160717-ba3b0655-9e88-4822-9264-fc2baa8a3ef4.jpg" alt="" />
+								
+								
+								<figcaption class="shuffle-caption caption-position-top">
+									<p>HOPE SQUAD</p>
+								</figcaption>
+								
+							</figure>
+						
+							<figure class="shuffle-slide navigation-type-0 navigation-position-bottom">
+								
+								<img class="shuffle-image" src="https://3.files.edl.io/dcca/20/10/01/134659-4d826787-872e-499a-9948-6c71f789e12e.jpg" alt="" />
+								
+								
+							</figure>
+						
+							<figure class="shuffle-slide navigation-type-0 navigation-position-bottom">
+								
+								<img class="shuffle-image" src="https://3.files.edl.io/d926/22/10/13/154914-0e34db58-4fc8-4d1a-b226-60656d9ee610.jpg" alt="" />
+								
+								
+							</figure>
+						
+							<figure class="shuffle-slide navigation-type-0 navigation-position-bottom">
+								
+								<img class="shuffle-image" src="https://3.files.edl.io/acfa/22/03/24/190525-81542ba8-bef3-44e7-b436-51edae57e942.jpeg" alt="" />
+								
+								
+								<figcaption class="shuffle-caption caption-position-top">
+									<p>Baseball 2022 Team representing in Memphis.</p>
+								</figcaption>
+								
+							</figure>
+						
+							<figure class="shuffle-slide navigation-type-0 navigation-position-bottom">
+								
+								<img class="shuffle-image" src="https://3.files.edl.io/5ee1/22/03/09/200353-93677373-defa-4968-ad07-7b2506629f56.jpg" alt="" />
+								
+								
+							</figure>
+						
+							<figure class="shuffle-slide navigation-type-0 navigation-position-bottom">
+								
+								<img class="shuffle-image" src="https://3.files.edl.io/659f/22/09/12/171708-b87791f1-625b-413f-9e60-0cae3310183e.jpeg" alt="" />
+								
+								
+							</figure>
+						
+							<figure class="shuffle-slide navigation-type-0 navigation-position-bottom">
+								
+								<img class="shuffle-image" src="https://3.files.edl.io/a3ab/21/09/23/211521-350f2f31-ca43-482c-830e-4240f103717b.jpeg" alt="" />
+								
+								
+							</figure>
+						
+							<figure class="shuffle-slide navigation-type-0 navigation-position-bottom">
+								
+								<img class="shuffle-image" src="https://3.files.edl.io/0803/20/01/31/182054-4e23cef8-d1a5-420c-9a63-7c374ec788ae.png" alt="Placeholder text, please change" />
+								
+								
+								<figcaption class="shuffle-caption caption-position-top">
+									<p>MOUNTAIN BIKE TEAM</p>
+								</figcaption>
+								
+							</figure>
+						
+							<figure class="shuffle-slide navigation-type-0 navigation-position-bottom">
+								
+								<img class="shuffle-image" src="https://3.files.edl.io/a52b/21/08/25/133023-a12288a5-ff77-4343-8e9d-688ae9f4a72f.jpg" alt="" />
+								
+								
+							</figure>
+						
+							<figure class="shuffle-slide navigation-type-0 navigation-position-bottom">
+								
+								<img class="shuffle-image" src="https://3.files.edl.io/0833/22/03/10/050543-2bcf3733-bae8-4b1d-bc88-85e2ae48bf55.jpg" alt="" />
+								
+								
+								<figcaption class="shuffle-caption caption-position-top">
+									<p>DRILL NATIONALS</p>
+								</figcaption>
+								
+							</figure>
+						
+							<figure class="shuffle-slide navigation-type-0 navigation-position-bottom">
+								
+								<img class="shuffle-image" src="https://3.files.edl.io/d074/22/01/26/155622-a1e34b4e-7e5f-4998-8214-30efa3295cdf.JPEG" alt="" />
+								
+								
+								<figcaption class="shuffle-caption caption-position-top">
+									<p>HOPE SQUAD</p>
+								</figcaption>
+								
+							</figure>
+						
+							<figure class="shuffle-slide navigation-type-0 navigation-position-bottom">
+								
+								<img class="shuffle-image" src="https://3.files.edl.io/c22c/20/01/31/182812-f91c6f0f-111e-411f-b677-8a7ec68dde2a.jpg" alt="Placeholder text, please change" />
+								
+								
+							</figure>
+						
+							<figure class="shuffle-slide navigation-type-0 navigation-position-bottom">
+								
+								<img class="shuffle-image" src="https://3.files.edl.io/a902/20/09/01/134548-1c80c650-9448-46cf-974d-fe11b56955ea.jpg" alt="Placeholder text, please change" />
+								
+								
+							</figure>
+						
+							<figure class="shuffle-slide navigation-type-0 navigation-position-bottom">
+								
+								<img class="shuffle-image" src="https://3.files.edl.io/f5e4/21/03/16/162220-1fdd4823-d802-4376-a8b3-bd18464afa14.jpg" alt="" />
+								
+								
+							</figure>
+						
+							<figure class="shuffle-slide navigation-type-0 navigation-position-bottom">
+								
+								<img class="shuffle-image" src="https://3.files.edl.io/d7ae/21/09/13/170203-c626b559-237b-49a2-adf8-168629dc5f13.jpg" alt="" />
+								
+								
+							</figure>
+						
+							<figure class="shuffle-slide navigation-type-0 navigation-position-bottom">
+								
+								<img class="shuffle-image" src="https://3.files.edl.io/199f/22/02/28/210041-a05604cf-4867-483f-b67e-6fea0b860138.JPG" alt="" />
+								
+								
+								<figcaption class="shuffle-caption caption-position-top">
+									<p>State Auto Tech Competition 5th place</p>
+								</figcaption>
+								
+							</figure>
+						
+							<figure class="shuffle-slide navigation-type-0 navigation-position-bottom">
+								
+								<img class="shuffle-image" src="https://3.files.edl.io/23b6/20/03/09/210242-dde001fa-79a1-4256-b1af-d9065d80a6d7.jpg" alt="Placeholder text, please change" />
+								
+								
+							</figure>
+						
+							<figure class="shuffle-slide navigation-type-0 navigation-position-bottom">
+								
+								<img class="shuffle-image" src="https://3.files.edl.io/0b8e/21/12/07/184411-d97320e4-f116-47a6-9d4d-d3d02bf327cf.jpeg" alt="" />
+								
+								
+								<figcaption class="shuffle-caption caption-position-top">
+									<p>BINGHAM TRADITIONAL HAKA</p>
+								</figcaption>
+								
+							</figure>
+						
+							<figure class="shuffle-slide navigation-type-0 navigation-position-bottom">
+								
+								<img class="shuffle-image" src="https://3.files.edl.io/94e1/21/09/13/171930-97292368-d1c6-4a43-b4b7-b3bef73994df.jpg" alt="" />
+								
+								
+							</figure>
+						
+							<figure class="shuffle-slide navigation-type-0 navigation-position-bottom">
+								
+								<img class="shuffle-image" src="https://3.files.edl.io/95a1/21/12/06/202552-5a3eb79c-27d2-4fbd-b506-375446788c21.jpg" alt="" />
+								
+								
+								<figcaption class="shuffle-caption caption-position-top">
+									<p>BASKETBALL&nbsp;</p>
+								</figcaption>
+								
+							</figure>
+						
+							<figure class="shuffle-slide navigation-type-0 navigation-position-bottom">
+								
+								<img class="shuffle-image" src="https://3.files.edl.io/1959/22/03/29/200740-627775ed-41eb-4bd6-908a-a593956cc081.jpeg" alt="" />
+								
+								
+								<figcaption class="shuffle-caption caption-position-top">
+									<p>Future Chefs (Pro Start)</p>
+								</figcaption>
+								
+							</figure>
+						
+							<figure class="shuffle-slide navigation-type-0 navigation-position-bottom">
+								
+								<img class="shuffle-image" src="https://3.files.edl.io/8748/22/03/09/200129-a50813df-6a2d-4a8f-9158-ed01f5198800.jpg" alt="" />
+								
+								
+							</figure>
+						
+							<figure class="shuffle-slide navigation-type-0 navigation-position-bottom">
+								
+								<img class="shuffle-image" src="https://3.files.edl.io/643c/22/03/09/200511-4a2d2848-a185-4a24-9361-22c098ef53e4.jpg" alt="" />
+								
+								
+							</figure>
+						
+							<figure class="shuffle-slide navigation-type-0 navigation-position-bottom">
+								
+								<img class="shuffle-image" src="https://3.files.edl.io/2ff8/22/10/13/155101-ce81999e-fd6e-45ed-ae39-ee711f993c56.jpg" alt="" />
+								
+								
+							</figure>
+						
+					</div>
+					
+				</section>
+
+				<script>
+					document.addEventListener('DOMContentLoaded', function() {
+						$('#shuffle_main .shuffle-main').slick();
+						
+					});
+				</script>
+				<div id="motto" class="motto-container ">
+					It's a great day to be a Miner
+				</div>
+		</div>
+	</div>
+
+	<div class="homepage-row convert-none padded-row width-constrain-row" id="quicklinks_row">
+		<div class="homepage-row-inner">
+				<nav id="quicklinks" class="content-container quicklinks-container orientation-horizontal icon-orientation-vertical" aria-labelledby="quicklinks_header">
+					<h2 class="hidden" id="quicklinks_header">Quicklinks</h2>
+					<ul class="items-list">
+						<li class="qlink-item"><a href="https://skystu.jordan.k12.ut.us/scripts/wsisa.dll/WService=wsEAplus/fwemnu01.w"><span class="qlink-inner"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 770.02 384.12"><path d="M30.6,297.63v-3.9a22.62,22.62,0,0,0-.1-2.7,13.55,13.55,0,0,0-.2-2l-.3-1.8a7.26,7.26,0,0,0-2-4,4.27,4.27,0,0,0-3.3-1.5c-3.5,0-5.3,3-5.3,9a29,29,0,0,0,.4,5.4,17.85,17.85,0,0,0,1.8,4.8,29.83,29.83,0,0,0,3.7,5.2c1.5,1.9,3.5,4,5.9,6.5a119.94,119.94,0,0,1,9,10.2,44.72,44.72,0,0,1,5.5,9.2,45.32,45.32,0,0,1,2.9,9.5,64.28,64.28,0,0,1,.9,11.4,64.68,64.68,0,0,1-1.3,14.5A26.39,26.39,0,0,1,44,377a15.19,15.19,0,0,1-6.7,5.6c-2.5,1-6.1,1.5-10.7,1.5a46.71,46.71,0,0,1-12.8-1.4,16.18,16.18,0,0,1-8.2-4.9,21.16,21.16,0,0,1-4.3-9.3A66.58,66.58,0,0,1,.1,354v-3.5c0-1.5,0-3.2.1-4.9H19.1V351c0,1.5,0,2.9.1,3.9.2,5.5,2,8.3,5.4,8.3,3.7,0,5.5-3.4,5.5-10.2a29,29,0,0,0-.4-5.4,23.21,23.21,0,0,0-1.3-4.5,19.13,19.13,0,0,0-2.5-4.3,40.08,40.08,0,0,0-4.1-4.6c-2.8-2.9-5.1-5.2-6.9-7.1s-3.2-3.4-4.4-4.9c-1.1-1.3-2.1-2.7-2.9-3.7s-1.4-2.3-2.2-3.5C1.7,309.1,0,301.3,0,291.5A56,56,0,0,1,1.4,278a27.27,27.27,0,0,1,4.2-9.7,16.41,16.41,0,0,1,7.2-5.5A29.48,29.48,0,0,1,24,261a41.15,41.15,0,0,1,11.5,1.5,15.65,15.65,0,0,1,7.6,5,20.79,20.79,0,0,1,4.2,9.1,59.74,59.74,0,0,1,1.3,13.6v3.3c0,1.2,0,2.7-.1,4.2H30.6v-.07Z" transform="translate(0.01 0)"/><path d="M145.4,320.63l15.8,61.7H140.7l-14.2-56.9v56.9H107.4V262.63h19.1V316l14.2-53.4h20.5Z" transform="translate(0.01 0)"/><path d="M245,336.23v46.1H225.9v-46.1l-19.7-73.6h19.7l9.2,43.8,8.7-43.8h20Z" transform="translate(0.01 0)"/><path d="M392,382.33H368.2L360.1,298l-8.2,84.3H328L314.1,262.6h19.4L341,352l8.7-89.4h21l8.7,84.5,7.6-84.5h20Z" transform="translate(0.01 0)"/><path d="M507,382.33H487l-1.8-20.8H471.6l-1.5,20.8H450.4l16-119.7h25.3Zm-28.5-93.7-4.8,51h9.4Z" transform="translate(0.01 0)"/><path d="M579.5,382.33H560.4V262.63h26.9c7.7,0,13.4,2.4,16.9,7.4s5.3,13.1,5.3,24.1a51.39,51.39,0,0,1-.7,9.2,21.56,21.56,0,0,1-2.1,6.9,18.35,18.35,0,0,1-3.8,5.3,31.55,31.55,0,0,1-5.8,4.5c4.3,1.1,7.4,3,9.4,5.8s2.9,6.5,2.9,11.5v38.4a21,21,0,0,0,.1,2.7,10.62,10.62,0,0,0,.4,1.9,8.78,8.78,0,0,0,.9,2.1H591.4c-.4-1.8-.8-3.5-1-5.1a51.58,51.58,0,0,1-.2-5.9v-28.8c0-4.3-.6-7.4-1.5-9.2s-2.9-2.7-5.4-2.7h-3.8Zm0-73.2a41.88,41.88,0,0,0,4.2-.2,7,7,0,0,0,2.5-.6,4.26,4.26,0,0,0,1.5-.9,8.54,8.54,0,0,0,1.1-1.4q1.5-2.85,1.5-9.3c0-4.8-.6-8.1-1.7-10s-3.1-2.8-5.9-2.8h-3.2v25.2Z" transform="translate(0.01 0)"/><path d="M695,262.63a32.79,32.79,0,0,1,11.1,1.7,15.87,15.87,0,0,1,7.4,5.2,22,22,0,0,1,4.1,9.4,64,64,0,0,1,1.2,14v57.4c0,3.4-.1,6.5-.3,9.1a60,60,0,0,1-1,6.9,17.62,17.62,0,0,1-1.9,5.2,30.35,30.35,0,0,1-2.9,4.4,17.76,17.76,0,0,1-6.4,5,24.44,24.44,0,0,1-9.3,1.5H669.7V262.63Zm-6.5,98.6a33.72,33.72,0,0,0,6.1-.4,5.5,5.5,0,0,0,3.3-1.9,7.61,7.61,0,0,0,1.4-4,69.07,69.07,0,0,0,.3-7.3v-51c0-5-.6-8.4-1.5-10.1s-3-2.5-6-2.5h-1.5a16.46,16.46,0,0,0-2.1.2v77Z" transform="translate(0.01 0)"/><path d="M8.2,252.13h42s132.7-126.7,334.1-189.2c0,0,165.4-53.1,338.5-29.9V6.53s-148.2-27.7-348.4,31C374.2,37.53,190.6,81.83,8.2,252.13Z" transform="translate(0.01 0)"/><path d="M111.1,252.13h43.7s104.5-122.6,298.7-173.7c0,0,132.7-33.2,269.3-12.7V40.33s-130-19.4-277.6,15.5C445,55.83,253.8,91.23,111.1,252.13Z" transform="translate(0.01 0)"/><path d="M217.8,252.13h43.1S322.8,142,493.2,105.53c0,0,115.6-23.2,229.5-7.7v-26s-153.2-24.3-300.3,26C422.3,97.83,282.4,142.63,217.8,252.13Z" transform="translate(0.01 0)"/><path d="M754.5,257.73a13.8,13.8,0,0,1,6,1.3,16.59,16.59,0,0,1,5,3.8,16.8,16.8,0,0,1,3.3,5.5A16.62,16.62,0,0,1,770,275a19.63,19.63,0,0,1-1.2,6.9,17,17,0,0,1-3.4,5.5,18.89,18.89,0,0,1-5,3.8,14.37,14.37,0,0,1-6.2,1.3,14.68,14.68,0,0,1-6.2-1.3,14.46,14.46,0,0,1-5-3.8,18.94,18.94,0,0,1-3.4-5.5,18.91,18.91,0,0,1,3.4-19,16,16,0,0,1,5.1-3.7A13.37,13.37,0,0,1,754.5,257.73Zm-.4,2.7a10.75,10.75,0,0,0-5,1.1,13.88,13.88,0,0,0-4.1,3.1,15.86,15.86,0,0,0,0,20.6,13.12,13.12,0,0,0,4.2,3.1,12.37,12.37,0,0,0,10.2,0,15.76,15.76,0,0,0,4.2-3.1,15.34,15.34,0,0,0,2.8-4.6,15.72,15.72,0,0,0,1-5.8,14.67,14.67,0,0,0-1-5.6,14.42,14.42,0,0,0-2.9-4.6,15.76,15.76,0,0,0-4.2-3.1,16.15,16.15,0,0,0-5.2-1.1Zm-.8,24.6h-4.6v-19.7H755a5.8,5.8,0,0,1,4,1.2c.9.9,1.2,2.2,1.2,4a4.4,4.4,0,0,1-.6,2.5,3.75,3.75,0,0,1-1.9,1.5,2.72,2.72,0,0,1,2.4,2.9V284c0,.2.2.4.4.9h-4.8a3.71,3.71,0,0,1-.2-.9c0-.2-.1-.6-.1-1v-4.6a1.88,1.88,0,0,0-.3-1.3,1.53,1.53,0,0,0-1-.4h-.7V285Zm0-12.2a3.61,3.61,0,0,0,1.8-.3c.3-.2.4-.7.4-1.5s-.1-1.2-.3-1.4a1.9,1.9,0,0,0-1.2-.4h-.7v3.6Z" transform="translate(0.01 0)"/></svg>
+<span class="qlink-text">Skyward</span></span></a></li>
+						<li class="qlink-item"><a href="https://binghamcounseling.org/"><span class="qlink-inner"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 170 150.94"><path d="M48.79 33.39a1.6 1.6 0 0 0 2.24.28L85 7.24l34 26.42a1.61 1.61 0 0 0 2.25-.28l2-2.52a1.62 1.62 0 0 0-.28-2.25L87 .67a3.18 3.18 0 0 0-3.92 0L47.11 28.61a1.59 1.59 0 0 0-.28 2.24z"/><path d="M86 36.82v-6.43a1 1 0 0 0-2 0v6.93a1.05 1.05 0 0 0 .39.8l6.43 5.18a1 1 0 0 0 .65.23 1 1 0 0 0 1-1 1 1 0 0 0-.38-.81z"/><path d="M167.68 58.21h-55.57V31.7L85 10.61 57.89 31.7v26.51H2.32A2.32 2.32 0 0 0 0 60.53v88.09a2.32 2.32 0 0 0 2.32 2.32H65V112.3h40.1v38.64h62.63a2.32 2.32 0 0 0 2.32-2.32V60.53a2.32 2.32 0 0 0-2.37-2.32zM37.09 135.48H17a1.55 1.55 0 0 1-1.55-1.54v-20.09A1.55 1.55 0 0 1 17 112.3h20.09a1.55 1.55 0 0 1 1.55 1.55v20.09a1.54 1.54 0 0 1-1.55 1.54zm0-38.63H17a1.55 1.55 0 0 1-1.55-1.55V75.21A1.55 1.55 0 0 1 17 73.67h20.09a1.55 1.55 0 0 1 1.55 1.54V95.3a1.54 1.54 0 0 1-1.55 1.55zm40.18-1.55a1.54 1.54 0 0 1-1.54 1.55H55.64a1.54 1.54 0 0 1-1.55-1.55V75.21a1.54 1.54 0 0 1 1.55-1.54h20.09a1.54 1.54 0 0 1 1.54 1.54zm-4.41-58A12.14 12.14 0 1 1 85 49.45a12.14 12.14 0 0 1-12.14-12.13zm41.5 59.53H94.27a1.54 1.54 0 0 1-1.54-1.55V75.21a1.54 1.54 0 0 1 1.54-1.54h20.09a1.54 1.54 0 0 1 1.55 1.54V95.3a1.54 1.54 0 0 1-1.55 1.55zm40.19 37.09a1.55 1.55 0 0 1-1.55 1.54h-20.09a1.55 1.55 0 0 1-1.55-1.54v-20.07a1.55 1.55 0 0 1 1.55-1.55H153a1.55 1.55 0 0 1 1.55 1.55zm0-38.64a1.55 1.55 0 0 1-1.55 1.57h-20.09a1.55 1.55 0 0 1-1.55-1.55V75.21a1.55 1.55 0 0 1 1.55-1.54H153a1.55 1.55 0 0 1 1.55 1.54z"/></svg><span class="qlink-text">Counseling</span></span></a></li>
+						<li class="qlink-item"><a href="https://binghamhigh.tandem.co/"><span class="qlink-inner"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448.13 478"><path d="M149.38 179.28h59.75v59.75h-59.75zm89.63 0h59.75v59.75H239zm89.58 0h59.75v59.75h-59.75zM59.75 358.5h59.75v59.78H59.75zm89.63 0h59.75v59.78h-59.75zm89.63 0h59.75v59.78H239zm-89.62-89.62h59.75v59.75h-59.76zm89.63 0h59.75v59.75H239zm89.63 0h59.75v59.75h-59.81zm-268.88 0h59.75v59.75H59.75zM388.38 0v29.87h-59.79V0H119.5v29.87H59.75V0H0v478h448.13V0zm29.88 448.12H29.88V119.5h388.37z"/></svg><span class="qlink-text">Calendar</span></span></a></li>
+						<li class="qlink-item"><a href="https://jsd.instructure.com"><span class="qlink-inner"><svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 369.36 369.53">
+  <title>
+    canvas
+  </title>
+  <path d="M189.74 53.45c26.36-2.57 45.23-23.79 47.51-46.77a213.14 213.14 0 00-105.93 0 53.29 53.29 0 0058.42 46.77zM187.65 315.92c-30.89-1.77-53.72 21.65-56.26 46.94a213.63 213.63 0 00105.9 0 53.16 53.16 0 00-49.64-46.94zM347.67 95.95a212 212 0 00-74.91-74.92 53.35 53.35 0 0074.91 74.92zM277.39 276.79c-20.42 20-20.3 51.69-4.5 71a211.77 211.77 0 0074.84-74.83c-18.01-15.07-49.32-16.78-70.34 3.83zM53.56 180.62c-1.92-28.83-25.28-47.35-47-49.09a214.07 214.07 0 000 105.78 53 53 0 0047-56.69zM90.75 92.99c21.75-20.5 20.83-53.05 5.3-71.77a212.12 212.12 0 00-74.85 74.8c18 15.16 48.9 16.43 69.55-3.03zM362.71 131.47c-23 1.91-49.1 23.35-46.91 56.86 1.85 28.32 25.53 47.41 46.93 48.81a213.55 213.55 0 00-.02-105.67zM21.06 272.65a212.36 212.36 0 0074.9 74.92c14.9-18.09 16.28-48.12-2.22-68.61a53.53 53.53 0 00-72.68-6.31zM254.94 130.41a16.83 16.83 0 10.11-33.65c-9.46 0-16.49 7.29-16.79 16.66.1 9.36 7.12 16.9 16.68 16.99zM67.82 184.27a16.82 16.82 0 1016.88-16.71 16.49 16.49 0 00-16.88 16.71zM272.09 255.34a16.81 16.81 0 00-16.33-16.88 16.8 16.8 0 10-.85 33.58 16.78 16.78 0 0017.18-16.7zM184.38 67.86a16.8 16.8 0 10-.07 33.6c8.69 0 16.81-6.37 16.85-16.76s-8.03-16.76-16.78-16.84zM113.71 96.89c-9.41.24-16.75 7.26-16.8 16.83a16.5 16.5 0 0016.74 16.86c10 0 16.9-7.42 16.89-16.89-.02-9.68-7.45-16.58-16.83-16.8zM267.9 184.24a16.79 16.79 0 0016.24 16.94c8.29.25 17.24-5.62 17.39-16.68.13-9.84-7.43-16.8-16.71-16.91a16.67 16.67 0 00-16.92 16.65zM167.52 284.93a16.63 16.63 0 0016.8 16.76c9.39 0 16.81-6.91 16.82-16.76 0-10.07-7.46-16.63-16.91-17a16.87 16.87 0 00-16.71 17zM113.94 238.25a16.802 16.802 0 00-1 33.59c8.64.33 17.3-5.86 17.52-16.54.21-9.67-7.11-16.84-16.52-17.05z"/>
+</svg>
+<span class="qlink-text">Canvas</span></span></a></li>
+						<li class="qlink-item"><a href="/apps/pages/index.jsp?uREC_ID=189571&type=d&pREC_ID=2346803"><span class="qlink-inner"><svg xmlns="http://www.w3.org/2000/svg" viewBox="601.5 -86.4 16 12"><path d="M604.5-79.2v2.3c0 1 2.2 2.5 5 2.5s5-1.5 5-2.5v-2.3l-5 2.5-5-2.5zm5-7.2l-8 4 8 4 6.5-3.2-.5 4.2h1v-4.5l1-.5-8-4zm.5 4.2c-.4 0-.7-.3-.7-.7 0-.4.3-.7.7-.7.4 0 .7.3.7.7 0 .4-.3.7-.7.7z"/></svg><span class="qlink-text">Media Center</span></span></a></li>
+					
+						<li class="qlink-item"><a href="https://www.parchment.com/u/registration/24393/account" target="_blank"><span class="qlink-inner"><svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 90 78"><path d="M90 7.5v51a7.52 7.52 0 0 1-7.5 7.5H57a9.88 9.88 0 0 0 .75 3.63 34.5 34.5 0 0 0 1.5 3.37 5.35 5.35 0 0 1 .75 2 3 3 0 0 1-3 3H33a3 3 0 0 1-3-3 5.17 5.17 0 0 1 .75-2.06 33.3 33.3 0 0 0 1.5-3.28A9.81 9.81 0 0 0 33 66H7.5a7.22 7.22 0 0 1-5.3-2.2A7.22 7.22 0 0 1 0 58.5v-51a7.22 7.22 0 0 1 2.2-5.3A7.22 7.22 0 0 1 7.5 0h75a7.22 7.22 0 0 1 5.3 2.2A7.22 7.22 0 0 1 90 7.5zm-6 39v-39A1.52 1.52 0 0 0 82.5 6h-75A1.52 1.52 0 0 0 6 7.5v39A1.52 1.52 0 0 0 7.5 48h75a1.52 1.52 0 0 0 1.5-1.5z"/></svg><span class="qlink-text">Transcript Requests</span></span></a></li>
+						<li class="qlink-item"><a href="https://www.binghamminers.org/apps/pages/index.jsp?uREC_ID=189589&type=d&pREC_ID=2268047"><span class="qlink-inner"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.5 32"><path d="M8.6,24.5V17c-2.3-0.7-4-1.7-5.1-3c-1.1-1.4-1.6-3-1.6-4.9c0-2,0.6-3.6,1.9-4.9C4.9,2.7,6.5,2,8.6,1.8V0h2.6v1.8 c1.9,0.2,3.4,0.9,4.5,1.9c1.1,1.1,1.8,2.5,2.1,4.3l-4.5,0.6c-0.3-1.4-1-2.4-2.1-2.9v7c2.9,0.8,4.8,1.8,5.8,3c1,1.2,1.6,2.8,1.6,4.7 c0,2.2-0.7,4-2,5.5s-3.1,2.4-5.4,2.7V32H8.6v-3.3c-2.1-0.2-3.7-1-5-2.3c-1.3-1.3-2.1-3.1-2.5-5.5l4.7-0.5c0.2,1,0.5,1.8,1.1,2.5 C7.3,23.6,7.9,24.1,8.6,24.5z M8.6,5.7C7.9,5.9,7.3,6.3,6.9,6.9C6.5,7.5,6.3,8.1,6.3,8.8c0,0.6,0.2,1.2,0.6,1.8 c0.4,0.5,1,1,1.7,1.3C8.6,11.9,8.6,5.7,8.6,5.7z M11.2,24.7c0.9-0.2,1.6-0.6,2.2-1.2c0.6-0.7,0.8-1.4,0.8-2.3 c0-0.8-0.2-1.5-0.7-2.1c-0.5-0.6-1.2-1-2.3-1.3C11.2,17.7,11.2,24.7,11.2,24.7z"/></svg><span class="qlink-text">Payment Center</span></span></a></li>
+					</ul>
+				</nav>
+		</div>
+	</div>
+	<div class="homepage-row width-constrain-row convert-none padded-row pattern-row">
+		<div class="homepage-row-inner">
+				
+
+				<section class="content-container spotlight1-container thumbnail-orientation-vertical" id="spotlight_container" aria-labelledby="spotlight_header">
+					<h2 class="section-title" id="spotlight_header"><a href="/apps/spotlightmessages/9889">MINER PRIDE</a></h2>
+					<div class="item-inner">
+						<div class="item-summary clipped-summary">
+
+							<div class="spotlightmessage-text item-text">
+								<div>
+<div>Bingham High School is dedicated to the learning and academic growth of each student.&nbsp;</div>
+</div>
+							</div>
+							
+						</div>
+					</div>
+				</section>
+		</div>
+	</div>
+
+	
+
+	<div class="homepage-row width-constrain-row convert-none padded-row">
+		<div class="homepage-row-inner">
+				
+				<section class="content-container news1-container slick-container orientation-horizontal thumbnail-orientation-vertical" id="news_container" aria-labelledby="news_header">
+					<h2 class="section-title" id="news_header"><a href="/apps/news/">In The News</a></h2>
+					<div class="items-list" data-slick='{
+							"mobileFirst": true,
+							"slidesToShow": 1,
+							"adaptiveHeight": true,
+							"arrows": true,
+							"dots": false,
+							"swipeToSlide": true,
+							"responsive": [
+								{
+									"breakpoint": 767,
+									"settings": {
+										"slidesToShow": 2
+									}
+								},
+								{
+									"breakpoint": 1023,
+									"settings": {
+										"slidesToShow": 3
+									}
+								}
+							]
+						}'>
+						
+							<article id="news_item_1699138" class="item" aria-labelledby="news_item_1699138_header">
+								<div class="news-item-image-holder"> <img class="news-item-image" src="https://3.files.edl.io/1b0a/22/12/12/151808-99ddaae3-fa64-4448-8468-484afa4ea64c.png" alt="Student Nutrition Workers Featured Photo"></div>
+								<div class="item-summary">
+									<h3 id="news_item_1699138_header" class="item-name"><a href="https://4.files.edl.io/eadf/12/12/22/151416-e67619a7-5cea-4044-bfac-ca2f38e4dd1c.pdf">Student Nutrition Workers</a></h3>
+									<div class="item-text">
+										Student Nutrition Workers <br>Get paid at school<br>Free meal every day <br>School credit with work release<br>Never having to leave campus<br>Contact your counselor
+									</div>
+								</div>
+							</article>
+						
+							<article id="news_item_1696235" class="item no-photo" aria-labelledby="news_item_1696235_header">
+								<div class="news-item-image-holder"> <img class="news-item-image" src="/pics/header_logo.png" alt=""></div>
+								<div class="item-summary">
+									<h3 id="news_item_1696235_header" class="item-name"><a href="https://4.files.edl.io/da7d/12/07/22/164958-b38c4ec4-f1a4-4570-a3f6-e6ed1c028980.pdf">True Blue Month of Events</a></h3>
+									<div class="item-text">
+										Click here to see the True Blue Calendar to help us support the Angel's Hand Foundation and Make-A-Wish Charities for our True Blue Fundraiser.
+									</div>
+								</div>
+							</article>
+						
+							<article id="news_item_1684639" class="item" aria-labelledby="news_item_1684639_header">
+								<div class="news-item-image-holder"> <img class="news-item-image" src="https://3.files.edl.io/2822/22/11/07/161451-1a2fb1e4-bff5-4dce-b6de-9eba1a09ac22.png" alt="Senior Salute Ads Featured Photo"></div>
+								<div class="item-summary">
+									<h3 id="news_item_1684639_header" class="item-name"><a href="/apps/news/article/1684639">Senior Salute Ads</a></h3>
+									<div class="item-text">
+										It’s time to reserve space in the 2023 yearbook for a Senior Salute ad, celebrating your graduating senior.
+									</div>
+								</div>
+							</article>
+						
+							<article id="news_item_1695968" class="item" aria-labelledby="news_item_1695968_header">
+								<div class="news-item-image-holder"> <img class="news-item-image" src="https://3.files.edl.io/efeb/22/12/05/173929-817a2cd7-3496-4e60-a35d-e811798b9374.png" alt="Candle Light Series Featured Photo"></div>
+								<div class="item-summary">
+									<h3 id="news_item_1695968_header" class="item-name"><a href="/apps/news/article/1695968">Candle Light Series</a></h3>
+									<div class="item-text">
+										Choir Concert on Monday Dec 19 7:00 - 9:00 PM<br>Band/Percussion on Tuesday Dec 20 7:00 - 9:00 PM<br>Orchestra on Wednesday Dec 21 7:00 - 9:00 PM
+									</div>
+								</div>
+							</article>
+						
+							<article id="news_item_1634309" class="item" aria-labelledby="news_item_1634309_header">
+								<div class="news-item-image-holder"> <img class="news-item-image" src="https://3.files.edl.io/d69e/22/07/22/154606-2aad002d-876d-4ce9-a996-78bdeaed52fe.jpeg" alt="2022-2023 Bingham Student &amp; Parent Information and NEW ATTENDANCE POLICY Featured Photo"></div>
+								<div class="item-summary">
+									<h3 id="news_item_1634309_header" class="item-name"><a href="https://www.binghamminers.org/apps/pages/index.jsp?uREC_ID=189449&type=d&pREC_ID=456391">2022-2023 Bingham Student &amp; Parent Information and NEW ATTENDANCE POLICY</a></h3>
+									<div class="item-text">
+										These links contain information for Bingham High School students and parents about Back to School policies, important dates, pertinent information, and optional resources.
+									</div>
+								</div>
+							</article>
+						
+							<article id="news_item_1630375" class="item" aria-labelledby="news_item_1630375_header">
+								<div class="news-item-image-holder"> <img class="news-item-image" src="https://3.files.edl.io/6fa6/22/07/06/190536-d6e5800f-c0c8-421b-8117-0c5424307614.png" alt="Senior Parking Featured Photo"></div>
+								<div class="item-summary">
+									<h3 id="news_item_1630375_header" class="item-name"><a href="/apps/news/article/1630375">Senior Parking</a></h3>
+									<div class="item-text">
+										Seniors-Only - JULY – AUGUST 02<br><br>Parking permit applications for Seniors will be limited from July 05 through August 02, 2022. Permit applications are done online from July 05 – August 02.  Bring valid driver’s License and payment on Senior Picture Day (August 02) to pick up permit.  Please read the Parking guideline before filling out the form to verify you meet all requirements.
+									</div>
+								</div>
+							</article>
+						
+					</div>
+					<div class="read-more-links-group">
+						<a href="/apps/news/" class="read-more-link">Show All News</a>
+					</div>
+				</section>
+
+				<script>
+					document.addEventListener('DOMContentLoaded', function() {
+						$('#news_container .items-list').slick();
+					});
+				</script>
+		</div>
+	</div>
+
+	<div id="spotlight2_container_row" class="homepage-row width-constrain-row convert-none padded-row">
+		<div class="homepage-row-inner">
+				
+
+				<section class="content-container spotlight1-container thumbnail-orientation-horizontal" id="spotlight2_container" aria-labelledby="spotlight2_header" style="background-image: url('https://3.files.edl.io/d5db/21/10/05/173145-e91c6f2b-2e25-4a31-8ce6-f1c7d0799b90.jpg');">
+					<div class="item-inner">
+						
+						<div class="item-summary clipped-summary">
+							<h2 class="section-title" id="spotlight2_header"><a href="/apps/spotlightmessages/9890">IN THE SPOTLIGHT</a></h2>
+							<div class="spotlightmessage-text item-text">
+								<div>CELEBRATING OUR CLASS OF 2022</div>
+							</div>
+							
+								<div class="read-more-links-group">
+									<a class="read-more-link" href="/apps/spotlightmessages/9890" target="_self">Read More</a>
+								</div>
+							
+						</div>
+					</div>
+				</section>
+		</div>
+	</div>
+<div class="homepage-row width-constrain-row convert-none padded-row pattern-row">
+		<div class="homepage-row-inner">
+				
+				<section class="content-container events1-container slick-container orientation-horizontal date-orientation-horizontal" id="events_container" aria-labelledby="events_header">
+					<h2 class="section-title" id="events_header"><a href="/apps/events/">Upcoming Events</a></h2>
+					<div class="items-list" data-slick='{
+							"mobileFirst": true,
+							"slidesToShow": 1,
+							"adaptiveHeight": true,
+							"arrows": true,
+							"dots": false,
+							"swipeToSlide": true,
+							"responsive": [
+								{
+									"breakpoint": 767,
+									"settings": {
+										"slidesToShow": 3
+									}
+								},
+								{
+									"breakpoint": 1023,
+									"settings": {
+										"slidesToShow": 4
+									}
+								}
+							]
+						}'>
+						
+							<article class="item" aria-label="A Day">
+								<time class="event-date" datetime="2022-12-15">
+									<span class="event-month">Dec</span>
+									<span class="event-day">15</span>
+								</time>
+								<div class="item-summary">
+									<h3 class="item-name"><a href="/apps/events/2022/12/15/10366381/?REC_ID=10366381&id=0">A Day</a></h3>
+
+									
+									<div class="event-location item-text">Location: Calendar Day</div>
+								</div>
+							</article>
+						
+							<article class="item" aria-label="HOSA Food and Clothing Drive">
+								<time class="event-date" datetime="2022-12-15">
+									<span class="event-month">Dec</span>
+									<span class="event-day">15</span>
+								</time>
+								<div class="item-summary">
+									<h3 class="item-name"><a href="/apps/events/2022/12/15/11385016/?REC_ID=11385016&id=0">HOSA Food and Clothing Drive</a></h3>
+
+									
+									<div class="event-location item-text">Location: E234 Study Room</div>
+								</div>
+							</article>
+						
+							<article class="item" aria-label="B. Basketball @ Cyprus">
+								<time class="event-date" datetime="2022-12-15">
+									<span class="event-month">Dec</span>
+									<span class="event-day">15</span>
+								</time>
+								<div class="item-summary">
+									<h3 class="item-name"><a href="/apps/events/2022/12/15/11009129/?REC_ID=11009129&id=0">B. Basketball @ Cyprus</a></h3>
+
+									<div class="event-time item-text">Time: 7 PM – 9:30 PM</div>
+									<div class="event-location item-text">Location: CYPRUS HIGH</div>
+								</div>
+							</article>
+						
+							<article class="item" aria-label="Theatre Activity">
+								<time class="event-date" datetime="2022-12-15">
+									<span class="event-month">Dec</span>
+									<span class="event-day">15</span>
+								</time>
+								<div class="item-summary">
+									<h3 class="item-name"><a href="/apps/events/2022/12/15/10947724/?REC_ID=10947724&id=0">Theatre Activity</a></h3>
+
+									<div class="event-time item-text">Time: 7 PM – 9 PM</div>
+									<div class="event-location item-text">Location: Copper Pit</div>
+								</div>
+							</article>
+						
+							<article class="item" aria-label="B Day">
+								<time class="event-date" datetime="2022-12-16">
+									<span class="event-month">Dec</span>
+									<span class="event-day">16</span>
+								</time>
+								<div class="item-summary">
+									<h3 class="item-name"><a href="/apps/events/2022/12/16/10366326/?REC_ID=10366326&id=0">B Day</a></h3>
+
+									
+									<div class="event-location item-text">Location: Calendar Day</div>
+								</div>
+							</article>
+						
+							<article class="item" aria-label="Boys Wrestling @ Tournament of Champions">
+								<time class="event-date" datetime="2022-12-16">
+									<span class="event-month">Dec</span>
+									<span class="event-day">16</span>
+								</time>
+								<div class="item-summary">
+									<h3 class="item-name"><a href="/apps/events/2022/12/16/11204147/?REC_ID=11204147&id=0">Boys Wrestling @ Tournament of Champions</a></h3>
+
+									
+									<div class="event-location item-text">Location: Reno, NV</div>
+								</div>
+							</article>
+						
+							<article class="item" aria-label="HOSA Food and Clothing Drive">
+								<time class="event-date" datetime="2022-12-16">
+									<span class="event-month">Dec</span>
+									<span class="event-day">16</span>
+								</time>
+								<div class="item-summary">
+									<h3 class="item-name"><a href="/apps/events/2022/12/16/11385017/?REC_ID=11385017&id=0">HOSA Food and Clothing Drive</a></h3>
+
+									
+									<div class="event-location item-text">Location: E234 Study Room</div>
+								</div>
+							</article>
+						
+							<article class="item" aria-label="True Blue Chess Tournament">
+								<time class="event-date" datetime="2022-12-16">
+									<span class="event-month">Dec</span>
+									<span class="event-day">16</span>
+								</time>
+								<div class="item-summary">
+									<h3 class="item-name"><a href="/apps/events/2022/12/16/11378416/?REC_ID=11378416&id=0">True Blue Chess Tournament</a></h3>
+
+									<div class="event-time item-text">Time: 2 PM – 4 PM</div>
+									<div class="event-location item-text">Location: Media Center</div>
+								</div>
+							</article>
+						
+							<article class="item" aria-label="Spring Play Callbacks">
+								<time class="event-date" datetime="2022-12-16">
+									<span class="event-month">Dec</span>
+									<span class="event-day">16</span>
+								</time>
+								<div class="item-summary">
+									<h3 class="item-name"><a href="/apps/events/2022/12/16/10947732/?REC_ID=10947732&id=0">Spring Play Callbacks</a></h3>
+
+									<div class="event-time item-text">Time: 2:30 PM – 6:30 PM</div>
+									<div class="event-location item-text">Location: Copper Pit</div>
+								</div>
+							</article>
+						
+							<article class="item" aria-label="Boys Wrestling @ Tournament of Champions">
+								<time class="event-date" datetime="2022-12-17">
+									<span class="event-month">Dec</span>
+									<span class="event-day">17</span>
+								</time>
+								<div class="item-summary">
+									<h3 class="item-name"><a href="/apps/events/2022/12/17/11204148/?REC_ID=11204148&id=0">Boys Wrestling @ Tournament of Champions</a></h3>
+
+									
+									<div class="event-location item-text">Location: Reno, NV</div>
+								</div>
+							</article>
+						
+							<article class="item" aria-label="HOSA Food and Clothing Drive">
+								<time class="event-date" datetime="2022-12-17">
+									<span class="event-month">Dec</span>
+									<span class="event-day">17</span>
+								</time>
+								<div class="item-summary">
+									<h3 class="item-name"><a href="/apps/events/2022/12/17/11385018/?REC_ID=11385018&id=0">HOSA Food and Clothing Drive</a></h3>
+
+									
+									<div class="event-location item-text">Location: E234 Study Room</div>
+								</div>
+							</article>
+						
+							<article class="item" aria-label="Minerettes @ Mountain Ridge">
+								<time class="event-date" datetime="2022-12-17">
+									<span class="event-month">Dec</span>
+									<span class="event-day">17</span>
+								</time>
+								<div class="item-summary">
+									<h3 class="item-name"><a href="/apps/events/2022/12/17/11283081/?REC_ID=11283081&id=0">Minerettes @ Mountain Ridge</a></h3>
+
+									<div class="event-time item-text">Time: 8 AM – 3:30 PM</div>
+									<div class="event-location item-text">Location: Mountain Ridge High School</div>
+								</div>
+							</article>
+						
+							<article class="item" aria-label="Boys Wrestling @ Tournament of Champions">
+								<time class="event-date" datetime="2022-12-18">
+									<span class="event-month">Dec</span>
+									<span class="event-day">18</span>
+								</time>
+								<div class="item-summary">
+									<h3 class="item-name"><a href="/apps/events/2022/12/18/11204149/?REC_ID=11204149&id=0">Boys Wrestling @ Tournament of Champions</a></h3>
+
+									
+									<div class="event-location item-text">Location: Reno, NV</div>
+								</div>
+							</article>
+						
+							<article class="item" aria-label="HOSA Food and Clothing Drive">
+								<time class="event-date" datetime="2022-12-18">
+									<span class="event-month">Dec</span>
+									<span class="event-day">18</span>
+								</time>
+								<div class="item-summary">
+									<h3 class="item-name"><a href="/apps/events/2022/12/18/11385019/?REC_ID=11385019&id=0">HOSA Food and Clothing Drive</a></h3>
+
+									
+									<div class="event-location item-text">Location: E234 Study Room</div>
+								</div>
+							</article>
+						
+							<article class="item" aria-label="A Day">
+								<time class="event-date" datetime="2022-12-19">
+									<span class="event-month">Dec</span>
+									<span class="event-day">19</span>
+								</time>
+								<div class="item-summary">
+									<h3 class="item-name"><a href="/apps/events/2022/12/19/10366426/?REC_ID=10366426&id=0">A Day</a></h3>
+
+									
+									<div class="event-location item-text">Location: Calendar Day</div>
+								</div>
+							</article>
+						
+							<article class="item" aria-label="HOSA Food and Clothing Drive">
+								<time class="event-date" datetime="2022-12-19">
+									<span class="event-month">Dec</span>
+									<span class="event-day">19</span>
+								</time>
+								<div class="item-summary">
+									<h3 class="item-name"><a href="/apps/events/2022/12/19/11385020/?REC_ID=11385020&id=0">HOSA Food and Clothing Drive</a></h3>
+
+									
+									<div class="event-location item-text">Location: E234 Study Room</div>
+								</div>
+							</article>
+						
+							<article class="item" aria-label="Girls Basketball @ Tarkanian Classic">
+								<time class="event-date" datetime="2022-12-19">
+									<span class="event-month">Dec</span>
+									<span class="event-day">19</span>
+								</time>
+								<div class="item-summary">
+									<h3 class="item-name"><a href="/apps/events/2022/12/19/10897720/?REC_ID=10897720&id=0">Girls Basketball @ Tarkanian Classic</a></h3>
+
+									<div class="event-time item-text">Time: 8 AM – 10 PM</div>
+									<div class="event-location item-text">Location: Las Vegas, NV</div>
+								</div>
+							</article>
+						
+							<article class="item" aria-label="Choir Candlelight Concert">
+								<time class="event-date" datetime="2022-12-19">
+									<span class="event-month">Dec</span>
+									<span class="event-day">19</span>
+								</time>
+								<div class="item-summary">
+									<h3 class="item-name"><a href="/apps/events/2022/12/19/10474957/?REC_ID=10474957&id=0">Choir Candlelight Concert</a></h3>
+
+									<div class="event-time item-text">Time: 7 PM – 9 PM</div>
+									<div class="event-location item-text">Location: Auditorium</div>
+								</div>
+							</article>
+						
+							<article class="item" aria-label="B Day">
+								<time class="event-date" datetime="2022-12-20">
+									<span class="event-month">Dec</span>
+									<span class="event-day">20</span>
+								</time>
+								<div class="item-summary">
+									<h3 class="item-name"><a href="/apps/events/2022/12/20/10366499/?REC_ID=10366499&id=0">B Day</a></h3>
+
+									
+									<div class="event-location item-text">Location: Calendar Day</div>
+								</div>
+							</article>
+						
+							<article class="item" aria-label="HOSA Food and Clothing Drive">
+								<time class="event-date" datetime="2022-12-20">
+									<span class="event-month">Dec</span>
+									<span class="event-day">20</span>
+								</time>
+								<div class="item-summary">
+									<h3 class="item-name"><a href="/apps/events/2022/12/20/11385021/?REC_ID=11385021&id=0">HOSA Food and Clothing Drive</a></h3>
+
+									
+									<div class="event-location item-text">Location: E234 Study Room</div>
+								</div>
+							</article>
+						
+					</div>
+					<div class="read-more-links-group">
+						<a class="read-more-link" href="/apps/events/">Show All Events</a>
+
+					</div>
+				</section>
+
+				<script>
+					document.addEventListener('DOMContentLoaded', function() {
+						$('#events_container .items-list').slick();
+					});
+				</script>
+		</div>
+	</div>
+	<div class="homepage-row width-constrain-row convert-none padded-row">
+		<div class="homepage-row-inner">
+				<section class="content-container infographic-container orientation-horizontal icon-orientation-horizontal" id="infographics_container" aria-labelledby="infographics_header">
+					<h2 class="section-title" id="infographics_header">At a Glance</h2>
+					<ul class="items-list">
+						<li class="infographic-item"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 464 464"><path d="M212.91 218a3.19 3.19 0 0 1-.18-4.24l12.47-15.24L227 171a3.17 3.17 0 0 1 3.15-2.95h3.69A3.18 3.18 0 0 1 237 171l1.84 27.67.13 2a8.69 8.69 0 0 1-3.16 7.29l-9.93 8.04-6 4.89a3.14 3.14 0 0 1-4.22-.21zM464 442v12a10 10 0 0 1-10 10H10a10 10 0 0 1-10-10v-12a10 10 0 0 1 10-10h6V288h-5.52a10.49 10.49 0 0 1-7.38-17.93l54.44-53.89A28.36 28.36 0 0 1 77.45 208H144v32h16v-48h-24a8 8 0 0 1-8-8v-11.39a9.93 9.93 0 0 1 3.53-7.61L224 86.77V8a8 8 0 0 1 8-8h4.53a7.94 7.94 0 0 1 5.3 2C244.44 4.33 250 7.78 260 7.78c15 0 20-7.78 35-7.78a44.87 44.87 0 0 1 21.81 5.75A6.26 6.26 0 0 1 320 11.2v46.5a3.58 3.58 0 0 1-1.69 3 3.63 3.63 0 0 1-3.5.18A44.67 44.67 0 0 0 295 56.22c-15 0-20 7.78-35 7.78s-20-7.78-20-7.78v30.56L332.47 165a9.93 9.93 0 0 1 3.53 7.61V184a8 8 0 0 1-8 8h-24v48h16v-32h66.56a28.24 28.24 0 0 1 19.88 8.18l54.44 53.89A10.47 10.47 0 0 1 453.5 288H448v144h6a10 10 0 0 1 10 10zM191.2 200a40.79 40.79 0 1 0 40.8-40.8 40.78 40.78 0 0 0-40.8 40.8zM96 384H48v32h48zm0-64H48v32h48zm80 64h-48v32h48zm0-64h-48v32h48zm80 84.8a24 24 0 1 0-48 0V432h48zm0-84.8h-48v32h48zm80 64h-48v32h48zm0-64h-48v32h48zm80 64h-48v32h48zm0-64h-48v32h48z"/></svg><span class="item-inner"><span class="info-number">1908</span> <span class="info-text">Year established</span></span></li>
+						<li class="infographic-item"><svg  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 68.4 65"><circle class="st0" cx="56.5" cy="15.4" r="8.5"/><circle class="st0" cx="12" cy="15.4" r="8.6"/><circle class="st0" cx="34.2" cy="10.3" r="10.3"/><path class="st0" d="M56.5 27.4c-1.7 0-5.5.7-6.8 1.7 1.1 2.7 1.7 5.6 1.7 8.5 0 0-4.1-13.7-17.1-13.7S17.1 37.6 17.1 37.6c0-2.9.6-5.8 1.7-8.5-1.4-1-5.1-1.7-6.8-1.7-5.8 0-12 6.8-12 11.3v19.5C0 61.9 3.1 65 6.8 65h9.9c3.1-3.1 8.6-6.8 17.4-6.8S48.5 62 51.6 65h9.9c3.8 0 6.8-3.1 6.8-6.8V38.7c.1-4.5-6.7-11.3-11.8-11.3zM34.2 54.7c-4.7 0-8.6-3.8-8.6-8.5s3.8-8.5 8.6-8.5c4.7 0 8.5 3.8 8.5 8.5s-3.7 8.5-8.4 8.5h-.1z"/></svg>
+<span class="item-inner"><span class="info-number">2,463</span> <span class="info-text">Students enrolled</span></span></li>
+						<li class="infographic-item"><svg  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 99.9 57.81"><path d="M83.6 19.6l-1.4-2.8-20.3 16 1.4 2.8 20.3-16z"/><path d="M99.9 4.1a4.45 4.45 0 0 0-1.2-2.9A4.45 4.45 0 0 0 95.8 0H44.6a4.25 4.25 0 0 0-2.9 1.2 4 4 0 0 0-1.2 2.9v17.1h4.2v-17h50.9v38.2h-33v4.2h33.2a4.25 4.25 0 0 0 2.9-1.2 4.25 4.25 0 0 0 1.2-2.9zm-45 30.1l-.6.4-5.1 3.5v-1.5C48.2 25.4 35 25.5 35 25.5h-5.7l-4.8 7.9-4.8-7.9h-5.5C-.5 25.8 0 36.7 0 36.7v16.8c0 5.7 8.7 5.8 8.7 0V38.6h4.2v18.5h23.3V38.5h4.2v7.8c0 3.3 3.8 5.4 6.3 3.9l7.6-5 4-2.7s2.8-1.9 2.9-1.9c3.8-4-1.2-10.3-6.3-6.4zM24.6 22.7a10.6 10.6 0 1 0 0-21.2 10.6 10.6 0 1 0 0 21.2z"/></svg><span class="item-inner"><span class="info-number">52</span> <span class="info-text">Concurrent and AP courses taught</span></span></li>
+						<li class="infographic-item"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 297 226.9"><path d="M45.4 0C42.6 0 40 1.1 38 3.1s-3.1 4.7-3.1 7.5V170c0 5.8 4.8 10.6 10.6 10.6 24.7.1 66.2 5.2 94.8 35.1V49c0-2-.5-3.8-1.5-5.4C115.3 5.8 70.2.1 45.4 0zM262.2 170V10.6c0-2.9-1.1-5.5-3.1-7.5S254.5 0 251.7 0c-24.8.1-69.9 5.8-93.4 43.6-1 1.5-1.5 3.4-1.5 5.4v166.8c28.6-29.9 70-35.1 94.8-35.1 5.8-.1 10.6-4.9 10.6-10.7z"/><path d="M286.4 36.8h-7.7V170c0 14.9-12.2 27.1-27.1 27.1-21 .1-55.6 4.2-80.1 27.3 42.4-10.4 87.1-3.6 112.5 2.2 3.2.7 6.5 0 9-2.1 2.5-2 4-5.1 4-8.3V47.4c0-5.9-4.8-10.6-10.6-10.6zM18.3 170V36.8h-7.7C4.8 36.8 0 41.5 0 47.4v168.9c0 3.2 1.5 6.3 4 8.3 2.5 2 5.8 2.8 9 2.1 25.5-5.8 70.1-12.5 112.5-2.2-24.5-23.2-59.1-27.3-80.1-27.3-14.9-.1-27.1-12.3-27.1-27.2z"/></svg><span class="item-inner"><span class="info-number">1,200</span> <span class="info-text">Students taking Concurrent classes</span></span></li>
+						<li class="infographic-item"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18.5 18.5"><g><path d="M3.2 8.5c0 .2.2.5.4.8l.3-2.7-.7-.3v2.2zM8.6 11.4c3 0 5.4-1.9 5.4-2.9V6.3L9.2 8.7s-.3.1-.6.1-.6-.1-.6-.1L5 7.2l.4 3.5c1 .4 2.1.7 3.2.7zM4.5 12.1c.6 0 .6-.3.6-.3l-.6-4.9-.6 4.8c-.1.1-.1.4.6.4z"/><path d="M4.1 6.2c.1 0 .2.1.2.1 0-.1 0-.1.1-.2 0 0 .1 0 .2-.1l.4-.3 2.8-1.4v-.2c0-.3.4-.6 1-.6.5 0 1 .3 1 .6s-.4.6-1 .6c-.2 0-.3 0-.4-.1L4.9 6.4v.2c.1.1.2.1.4.2l2.9 1.4c.3.1.8.1 1.1 0l7.9-3.8c.3-.1.3-.4 0-.5L9.2.1C8.9 0 8.4 0 8.1.1L.2 3.9c-.3.1-.3.4 0 .5L3.7 6c.1.1.3.2.4.2zM16.6 11.1c-.9.2-2.8.9-5.2 1.4.5.2.8.5 1.1 1.1.4.1.7.4.8.9v.4l.6.9c1.7-.4 3.3-.7 3.3-.7.8-.2 1.3-1 1.3-1.9 0-1.2-1-2.3-1.9-2.1zM11.6 14.7c-.1-.4.2-.9.5-1-.4-.8-1-.9-1.4-1-2.2.5-4.4.9-5.8 1.1.1.1.4.2.6.4.8.6 1.3 1.4 1.4 2.2.1.7-.1 1.4-.6 1.8l-.1.1c1-.4 2.8-1.1 4.7-1.7.6-1.5.7-1.6.7-1.6v-.3zM4.6 16.1c.1.1.3.3.3.5l.4-.2c-.1-.1-.1-.3-.3-.4l-.4.1z"/><path d="M6.5 16.5c-.1-.7-.6-1.5-1.3-2-.4-.3-.9-.5-1.3-.5h-.2c-.1 0-.3.1-.4.1-.9.3-1.6.9-1.6 2.3 0 .4.1.9.2 1.2l.6-.3c-.1-.2-.1-.4-.1-.7 0-.5.1-1 .5-1.3.2-.2.5-.4.8-.4H4c1 .1 1.7 1 1.8 1.8 0 .6-.2 1-.6 1.2-.2 0-.3.1-.5.1-.7 0-1.2-.6-1.3-1.1-.1-.3 0-.6.2-.7 0-.2.2-.2.3-.3l.9-.3c-.2-.2-.5-.3-.8-.3h-.1c-.3 0-.5.1-.7.3-.3.2-.4.6-.4 1 0 .9.8 1.7 1.7 1.8.3 0 .6 0 .8-.1.3 0 .5-.1.7-.3.3-.3.6-.8.5-1.5z"/><path d="M4.7 17c-.1-.1-.2-.1-.2-.2 0-.3-.3-.6-.5-.6-.1 0-.2 0-.2.1-.1.1-.1.2-.1.4 0 .4.4.8.9.8.1 0 .2 0 .3-.1.3-.1.4-.3.4-.8l-.5.4h-.1zM13 15.5c-.1 0-.2.1-.2.1 0 .1.5 1.4.5 1.4l.4-.6.5.1-.9-1.2c-.2.1-.2.2-.3.2zM11.9 15.4c-.1.2-.3.7-.4 1.1-.2.4-.3.8-.3.8l.8-.4.5.4.1-.7.1-.9h-.2c-.3-.1-.5-.2-.6-.3zM12.9 15.1c0-.1 0-.1 0 0 0-.1 0-.1.1-.1v-.1-.3-.1c0-.1-.1-.2-.2-.3-.1-.1-.2-.2-.4-.2h-.1c-.1 0-.1 0-.2.1-.2.1-.3.4-.3.6v.2c.1.2.2.3.3.4h.2c.4-.1.5-.1.6-.2z"/></g></svg>
+<span class="item-inner"><span class="info-number">98.3%</span> <span class="info-text">Graduation rate</span></span></li>
+						<li class="infographic-item"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 928 928"><path d="M801.163 279.3c-35.2-32.4-76-57.7-119.8-76.1-5.7 8.6-12.2 16.7-19.6 24.1-9.801 9.8-20.801 18.2-32.801 24.9 12.7 4.2 24.9 9 36.601 14.5 11.899 5.6 16.5 20.2 9.899 31.6-5.8 10.1-18.5 14.1-29 9.1-79.8-37.7-168.899-30.6-208-24.7-11.5 1.7-22.5-5.6-25.199-16.9v-.1c-3.101-12.8 5.5-25.5 18.5-27.5 7.1-1.1 15.699-2.2 25.3-3.1-2.9-2.5-5.7-5.1-8.4-7.8-13.8-13.8-24.7-29.9-32.3-47.9-.8-1.9-1.6-3.9-2.3-5.8-11.9 2-23.7 4.5-35.2 7.4-67-39-147.4-39.1-195.2-34.4-20.8 2-33.1 24.2-24 43l40.5 83c-45 39.2-79 87.2-98.1 140.7l-49.4-.2c-16.6-.1-30.1 13.4-30.1 30v110.8c0 11.199 6.2 21.399 16.1 26.6l64.1 33.4c26.8 73.899 82.3 137.3 155.5 181V893c0 19.3 15.7 35 35 35h89.8c13.899 0 26.5-8.3 32.1-21l22.5-51.7c19.4 2.4 39.101 3.601 59.3 3.601 31.801 0 62.7-3 92.4-8.7V893c0 19.3 15.7 35 35 35h89.4c12.899 0 24.8-7.1 30.899-18.5 47.601-89.4 99.3-179.1 137.5-272.7 19.3-47.399 26.3-97.7 22.101-146.8-6.801-79.2-42.801-155.3-103.1-210.7zm-537.2 186.1c-24.9 0-45-20.101-45-45 0-24.9 20.1-45 45-45s45 20.1 45 45c-.001 24.9-20.1 45-45 45z"/><path d="M510.863 233c13.7 5.4 28.7 8.4 44.4 8.4 7.699 0 15.199-.7 22.399-2.1 30.601-5.7 57.101-23 74.8-47.1 14.7-20 23.4-44.7 23.4-71.5.1-66.7-54-120.7-120.6-120.7-66.7 0-120.7 54-120.7 120.7 0 17.3 3.6 33.7 10.2 48.6 12.7 29 36.601 52 66.101 63.7z"/></svg><span class="item-inner"><span class="info-number">$7,100,000</span> <span class="info-text">in scholarships awarded last year</span></span></li>
+						<li class="infographic-item"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 113.11 111.48"><path d="M76.78 15.66C74.32 9.44 65.59 0 65.59 0s-5 14.66-2.52 20.89 7.41 10.17 12.21 7.89c4.22-2 3.98-6.89 1.5-13.12zM109.41 28.44c1.27-5.77-.46-17-.46-17s-10.88 8.26-12.14 14 .41 11.08 5 11.79c4.12.67 6.35-3.02 7.6-8.79zM101.26 57.46l.27-1c2.53-9.62 3.91-16.2-.67-17s-6.07 5.69-7.77 15.39q-1.72-.46-3.52-.86C88.24 50.24 87.13 47 87.13 47c-3.71-10.65-6.59-17.72-11.44-15.6s-2 9.38 2.63 19.8l.35.77a155 155 0 0 0-20.78-1.46C25.92 50.54 0 64.34 0 81.36c0 14.75 19.3 29.72 45.48 30.1C91.33 112.14 78 94.9 72 88.6 57.14 73.17 80.56 75.3 88.91 76l.09.19c-2.75 14.21-3.56 25.13-1.74 25.46 1.39.26 4-5.79 6.65-15 3.93 7.76 7.15 12.49 8.44 11.92 1.65-.72-.34-9.91-4.57-22.35 9.28-.28 13.65-2.35 14.76-5.06 2.33-5.7-2.74-10.3-11.28-13.7zM22.13 69.75c0-3 4.52-5.43 10.08-5.43s10.09 2.42 10.09 5.43-4.52 5.43-10.09 5.43-10.08-2.44-10.08-5.43zm15.29 27.6c-6.63 0-12-2.89-12-6.46s5.37-6.46 12-6.46 12 2.89 12 6.46-5.42 6.46-12 6.46zm17-32.65c-4.43 0-8-1.94-8-4.32s3.59-4.32 8-4.32 8 1.93 8 4.32-3.59 4.32-8.02 4.32z"/></svg>
+<span class="item-inner"><span class="info-number">31</span> <span class="info-text">Different performing arts groups</span></span></li>
+						<li class="infographic-item"><svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <title>
+    clock
+  </title>
+  <path d="M12 0a12 12 0 1 0 12 12A12 12 0 0 0 12 0zm4.41 16.71l-.35.35a.8.8 0 0 1-1.09 0l-4.52-4a1.79 1.79 0 0 1-.52-1.25l.42-7.13a.8.8 0 0 1 .79-.68h.49a.8.8 0 0 1 .79.75l.34 5.93A2.5 2.5 0 0 0 13.3 12l3.14 3.63a.81.81 0 0 1-.03 1.08z"/>
+</svg>
+<span class="item-inner"><span class="info-number">6,144</span> <span class="info-text">Service hours completed by our National Honor Society</span></span></li>
+					</ul>
+				</section>
+		</div>
+	</div>
+</div>
+
+
+
+
+
+
+
+	
+<script src="/apps/webapps/features/stickybins/js/public/bundle-pack-1670958788015.js" type="text/javascript" charset="utf-8"></script>
+</main>
+<footer class="site-footer2 site-footer" id="footer_main" aria-label="Main Site Footer">
+<div class="footer-inner">
+<div class="footer-info">
+<div class="footer-address">
+<div class="footer-section-title">Contact</div>
+<span class="footer-info-block"><a href="/apps/maps">2160 South Jordan Parkway<br>
+South Jordan, UT 84095</a></span>
+<span class="footer-info-block">Phone: <a href="tel:+18012565100">(801) 256-5100 </a></span>
+<span class="footer-info-block">Fax: (801) 256-5151 </span>
+</div>
+</div>
+<nav id="footer_nav" class="footer-secondary-nav"{ aria-labelledby="footer_nav_header">
+<div class="footer-section-title" id="footer_nav_header">Links</div>
+<ul class="links-list">
+<li class="link-item item-name"><a href="https://employment.jordandistrict.org/educatorlicensing/">Educator Licensing</a></li>
+<li class="link-item item-name"><a href="https://www.peachjar.com/index.php?a=28&b=138&region=31602">E-Flyers (Peach Jar)</a></li>
+<li class="link-item item-name"><a href="http://www.labmode.co.uk/lab-safety/">Lab Safety 101</a></li>
+<li class="link-item item-name"><a href="https://jordandistrict.org/resources/compliance/">ADAAA/Non-Discrimination</a></li>
+<li class="link-item item-name"><a href="https://skystu.jordan.k12.ut.us/scripts/wsisa.dll/WService=wsEAplus/fwemnu01.w">Grades</a></li>
+<li class="link-item item-name"><a href="https://safeut.med.utah.edu/">SAFE UT APP</a></li>
+</ul>
+<div class="read-more-links-group">
+<a class="read-more-link" href="/apps/links">More Links</a>
+</div>
+</nav>
+<div class="footer-tools">
+<div id="google_translate_element"></div>
+<script type="text/javascript">
+	function googleTranslateElementInit() {
+		new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+	}
+</script>
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+<a href="http://admin.binghamminers.org" class="edlio-login-link"><span class="edlio-logo"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 334.98 366.6"><path d="M334.77 247.52c-.63-4.94-5.66-7.44-10.28-6.85a11.59 11.59 0 00-8 5.43c-23.16 29.34-57.2 46.9-92.85 51.44-43.63 5.57-82.93-7.61-109.26-40.05-6.64-9.83-12.76-21-16.33-33.09-.31-2.48.85-3.88 3.5-4.21 40.32-5.15 142.69-29.55 181.19-48.92 24.25-10 30.9-31.58 28.61-49.51C307.5 92 285.64 67 252.41 54.71l15.81-27.57a10 10 0 00-12.12-13L153.99 43.36l-1.53-35.95A6.94 6.94 0 00140.64 2s-71.27 57.93-90.6 91.53L17.28 72.12A9.67 9.67 0 003.19 81.9s-9.76 66.22 4.85 146.51c13.48 74.06 70.35 110.76 70.35 110.76 29.25 21.26 68.12 31.35 112.25 26.03 65.45-8.37 125.8-51.26 144.15-112.64a14.41 14.41 0 00-.02-5.04zm-248.06-53.7c-.79-6.18-1.47-16.77-.94-23.12 2.52-29 16.31-54.89 42-67.64l13.4-5.12a87 87 0 0112.25-2.47c46.28-5.92 76 31.74 78.72 53.37 1.35 10.5-109.91 44.2-139.66 48-3.32.44-5.46-.55-5.77-3.02z"/></svg>
+Edlio</span> Login</a>
+<a href="http://www.edlio.com" target="_blank" class="powered-by-edlio-logo edlio-logo-horiz"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3857.05 489.14"><path d="M3789.08 332.42c0 54.66 36.78 119.82 91.43 119.82 42 0 59.91-34.69 59.91-72.52 0-55.7-34.69-124-91.44-124-41-1-59.9 36.79-59.9 76.72m215.44 6.31c0 73.57-51.49 152.39-152.39 152.39-87.23 0-126.11-57.8-126.11-121.91 0-73.57 53.6-153.44 152.39-153.44 86.18 0 126.11 59.9 126.11 123M3611.46 98.06c-7.35 0-14.71 3.15-21 11.56-2.1 3.15-3.15 6.31-4.2 10.51-1 9.46 2.1 16.81 8.41 23.12a21.18 21.18 0 0018.92 6.31 22 22 0 0016.81-8.41c6.31-7.36 8.41-15.77 6.31-24.17 0-2.11-1.05-3.16-2.11-5.26-5.25-9.46-13.66-13.66-23.12-13.66m4.21-39.94c1-1 3.15 0 3.15 1.05 0 3.16 0 7.36-1.05 10.51v1h12.61c2.1 0 5.26 0 7.36-1a23.65 23.65 0 007.35-1.05c2.11 0 3.16 2.1 2.11 3.15-1 3.16-3.16 6.31-6.31 10.51 1.05 1.06 3.15 2.11 4.2 4.21l3.16 3.15c0 1 13.66 13.66 13.66 28.38a69.41 69.41 0 01-1 14.71 76.55 76.55 0 01-4.21 14.71c-3.15 5.26-6.3 10.51-11.56 14.72a24.79 24.79 0 01-9.45 6.3 8 8 0 01-4.21 2.11c-2.1 1-5.25 2.1-7.36 3.15s-5.25 1.05-7.35 1.05h-12.61a19.79 19.79 0 01-8.41-2.1c-2.1-1.05-4.21-1.05-6.31-2.1-16.81-8.41-29.42-25.23-29.42-45.2v-9.45c1.05-11.57 1.05-22.07 2.1-33.64 0-3.15 3.15-4.2 5.25-2.1s5.26 4.21 7.36 7.36l3.15-3.15c1.05-1.05 2.1-2.11 3.15-2.11 2.11-1.05 3.16-2.1 5.26-3.15 2.1-2.1 5.25-3.15 7.36-5.25 2.1-1 3.15-2.11 5.25-3.16 3.15-3.15 12.61-9.45 16.82-12.61m-35.74 350c-1 31.53-5.25 52.55-36.78 58.86a9.21 9.21 0 00-7.36 9.46c0 5.25 4.21 8.4 7.36 8.4h135.58c4.2 0 8.4-3.15 8.4-9.45 0-5.26-3.15-8.41-7.35-8.41-28.38-5.26-30.48-27.33-30.48-50.45l6.3-194.43c-4.2-5.25-11.56-7.35-18.91-7.35-9.46 0-15.77 5.25-24.18 9.46-16.81 10.5-42 22.07-63.05 25.22-8.41 1-11.56 6.3-11.56 11.56 0 3.15 2.1 7.36 4.2 8.41 27.32 0 39.94 8.4 39.94 29.42zm-117.7 9.46c0 23.12 3.15 45.19 30.47 49.4 4.21 1.05 7.36 4.2 7.36 8.41 0 6.3-4.2 9.46-9.46 9.46h-134.59c-4.21 0-7.36-3.16-8.41-8.41A9.2 9.2 0 013355 467c30.48-7.36 35.73-32.58 35.73-58.86l7.36-233.31c0-21-13.67-29.43-39.94-29.43a13.31 13.31 0 01-4.2-9.46c0-5.25 3.15-9.45 11.56-10.51 21-4.2 46.24-14.71 62-25.22 8.41-5.25 14.72-9.46 25.23-9.46 6.3 0 13.66 3.16 18.92 7.36zm-399.37-75.67c0 54.65 30.48 98.79 74.62 98.79 41 0 64.11-35.73 65.16-87.23l3.15-67.26c0-4.2-1.05-6.3-3.15-8.41-14.72-17.86-38.89-27.32-62-27.32-49.4 0-77.77 36.78-77.77 91.43m134.52-114.55a57.76 57.76 0 019.46 7.35l2.1 2.11c1 0 1-1 1-2.11a119.19 119.19 0 01-1-14.71l2.1-44.14c0-24.17-18.91-29.43-41-29.43q-3.17-3.15-3.16-9.46c0-5.25 3.16-9.45 10.51-10.5 21-4.21 47.3-14.72 64.11-25.23 7.36-5.25 14.72-9.46 24.18-9.46 6.3 0 13.66 3.16 18.91 7.36l-10.57 305.8c0 27.33 6.31 45.19 26.28 49.4 7.35 1.05 10.51 0 13.66 1.05s4.2 2.1 4.2 5.25-2.1 5.26-4.2 7.36c-13.66 11.56-36.78 22.07-61 22.07-31.53 0-50.44-22.07-50.44-53.6 0-4.2 0-8.41 1.05-11.56 0-1.05 0-2.1-1.05-2.1a1 1 0 00-1 1.05c-18.92 39.94-55.71 68.31-96.69 68.31-72.52 0-108.25-58.85-108.25-120.86 0-86.18 62-154.49 148.18-154.49 18.92-1 36.79 2.1 52.55 10.51m-435.1 93.53c0 5.26 0 14.72 1 20 0 2.1 2.1 3.16 5.26 3.16 24.17-3.16 114.55-32.58 113.5-42-2.1-18.92-27.32-51.5-65.16-46.25-34.68 4.21-52.55 32.58-54.65 65.16m183.92-42c2.1 15.76-3.15 34.68-22.07 43.09-31.49 16.71-114.51 37.73-147.09 42.98-2.11 0-3.16 1.06-3.16 3.16 3.16 10.51 8.41 20 13.66 28.37 22.08 28.38 54.66 39.94 89.34 34.69 29.42-4.21 56.75-18.92 74.62-45.2 1.05-2.1 4.2-4.2 6.3-4.2 4.21 0 8.41 2.1 8.41 6.31v4.2c-13.66 53.6-63.06 90.38-115.61 97.74-72.51 9.46-128.22-35.73-137.67-105.1-10.51-79.87 41-159.74 125.06-171.3 58.86-7.36 101.94 23.12 108.25 65.16" transform="translate(-147.48 -57.69)"/><path d="M338.75 204.21c20 16.81 29.43 42 29.43 75.67s-10.51 58.85-30.48 74.62-50.45 24.17-92.49 24.17h-50.44v83h-47.29V180h96.68c44.14 0 74.62 7.39 94.59 24.21zm-33.63 116.65c9.46-10.51 14.71-25.22 14.71-44.14 0-20-6.3-33.63-17.86-41q-18.92-12.62-56.76-12.62h-48.34v112.48h54.65c26.27 0 44.14-5.26 53.6-14.72zM596.24 432.27c-21 21-48.35 31.53-80.93 31.53s-58.85-10.51-80.92-31.53c-21-21-32.58-47.3-32.58-78.83s10.51-56.75 32.58-78.82c21-21 48.34-31.53 80.92-31.53s58.86 10.51 80.93 31.53c21 21 32.58 47.3 32.58 78.82s-10.51 57.81-32.58 78.83zM467 404.94a67.48 67.48 0 0048.34 20c20 0 35.74-6.31 48.35-20q18.89-18.94 18.89-50.44t-18.92-50.45a67.48 67.48 0 00-48.35-20c-20 0-35.73 6.31-48.34 20Q448.06 323 448.05 354.5q0 29.94 18.95 50.44zM779.11 461.69h-51.5L653 247.3h46.24l53.6 161.85 53.6-161.85h46.24l53.6 161.85 53.6-161.85h46.25L931.5 461.69H880l-50.45-147.13zM1247.84 373.41h-168.16c1 15.77 8.41 28.38 21 37.84 13.66 9.46 28.38 14.71 45.19 14.71 27.33 0 47.3-8.41 61-25.22l26.27 28.37c-23.12 24.18-53.6 35.74-90.38 35.74-30.48 0-55.7-10.51-76.72-30.48s-31.53-47.29-31.53-80.93 10.51-60.95 32.58-79.87c21-20 47.29-29.43 75.67-29.43 29.43 0 53.6 8.41 74.62 26.28 20 17.86 30.48 42 30.48 72.51zm-168.16-34.68h123c0-17.87-5.26-31.53-16.82-41s-25.22-14.71-42-14.71a72 72 0 00-44.14 14.71c-12.72 9.47-20.04 23.13-20.04 41zM1411.79 289.34q-33.11 0-50.45 22.07c-11.56 14.71-16.81 33.63-16.81 58.85v91.43h-45.2V247.3h45.2v43.09a87.77 87.77 0 0129.47-32.58 79.18 79.18 0 0139.94-13.67v45.2zM1660.87 373.41h-168.16c1 15.77 8.41 28.38 21 37.84 13.67 9.46 28.38 14.71 45.19 14.71 27.33 0 47.3-8.41 61-25.22l26.27 28.37c-23.12 24.18-53.59 35.74-90.38 35.74-30.48 0-55.7-10.51-76.72-30.48s-31.53-47.29-31.53-80.93 10.51-60.95 32.58-79.87c21-20 47.3-29.43 75.67-29.43 29.43 0 53.6 8.41 74.62 26.28 20 17.86 30.48 42 30.48 72.51zm-168.16-34.68h123c0-17.87-5.26-31.53-16.82-41s-25.22-14.71-42-14.71a72 72 0 00-44.14 14.71c-12.68 9.47-20.04 23.13-20.04 41zM1729.18 434.37c-20-20-30.48-47.29-30.48-80.93s10.51-59.9 31.53-79.87 45.19-29.43 73.57-29.43 51.5 12.62 69.36 36.79V162.17h45.2v299.52h-45.2v-32.58c-16.81 23.13-41 35.74-72.51 35.74-27.33 0-51.5-10.51-71.47-30.48zm14.71-78.82c0 21 6.31 36.78 20 50.44 13.67 12.61 28.38 18.92 46.25 18.92s32.58-6.31 45.19-20 18.91-29.43 18.91-50.44c0-20-6.3-37.84-18.91-51.5s-27.33-21-45.19-21-33.64 7.36-46.25 21-20 31.56-20 52.58zM2212.63 244.14c28.37 0 53.6 9.46 73.56 29.43s30.48 46.24 30.48 79.87-10.51 59.91-30.48 80.93-44.14 31.53-70.41 31.53-51.5-11.56-72.52-35.74v32.58h-45.19V162.17h45.19v121.91c17.87-26.27 40.99-39.94 69.37-39.94zm-70.42 110.36q0 29.94 18.92 50.44c12.61 12.61 27.32 20 45.19 20s33.68-6.34 46.24-18.94c13.67-12.61 20-29.42 20-50.44s-6.31-37.84-18.92-51.5-28.37-20-46.24-20-33.63 6.31-45.19 20-20 30.47-20 50.44zM2397.6 546.82c-20 0-37.84-7.35-53.6-21l21-36.82c9.45 8.41 18.91 13.66 29.42 13.66s17.87-3.15 24.18-10.51 9.45-14.71 9.45-24.17c0-4.2-28.37-76.72-86.18-220.7h48.35l64.11 157.64 64.11-157.64h48.34l-104 254.33c-6.31 13.66-14.72 25.22-26.28 32.58a63.75 63.75 0 01-38.9 12.63z" transform="translate(-147.48 -57.69)"/></svg>
+Powered by Edlio</a>
+</div>
+</div>
+</footer>
+<nav id="mobile_nav" aria-label="Mobile Footer Navigation">
+<a href="/apps/events/"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" x="0" y="0" viewBox="0 0 62.6 60.3" enable-background="new 0 0 62.6 60.3" xml:space="preserve"><path d="M43.5 30.5c1 0 1.9 0.2 2.6 0.5 0.8 0.3 1.5 0.8 2.3 1.4l3.2-4.9c-1.2-0.9-2.4-1.6-3.7-2 -1.3-0.5-2.8-0.7-4.5-0.7 -1.9 0-3.6 0.3-5 1 -1.4 0.7-2.6 1.7-3.6 2.9 -1 1.2-1.7 2.6-2.1 4.3 -0.5 1.7-0.7 3.4-0.7 5.4v0.1c0 2.3 0.3 4.2 0.8 5.7 0.6 1.5 1.3 2.7 2.2 3.6 0.9 0.9 1.9 1.6 3.1 2.1 1.2 0.5 2.7 0.7 4.4 0.7 1.3 0 2.6-0.2 3.8-0.6 1.2-0.4 2.2-1 3.1-1.8 0.9-0.8 1.6-1.7 2.1-2.8 0.5-1.1 0.8-2.3 0.8-3.7v-0.1c0-1.2-0.2-2.3-0.7-3.3 -0.4-1-1-1.8-1.8-2.4 -0.7-0.6-1.6-1.1-2.6-1.5 -1-0.3-2-0.5-3.1-0.5 -1.2 0-2.3 0.2-3.1 0.6 -0.8 0.4-1.6 0.8-2.2 1.3 0.2-1.5 0.6-2.8 1.4-3.8C41 31 42.1 30.5 43.5 30.5zM39.7 39.7c0.6-0.6 1.4-0.9 2.5-0.9 1.1 0 1.9 0.3 2.6 0.9 0.6 0.6 0.9 1.4 0.9 2.3h0V42c0 0.9-0.3 1.7-0.9 2.3 -0.6 0.6-1.4 0.9-2.5 0.9 -1.1 0-1.9-0.3-2.6-0.9 -0.6-0.6-0.9-1.4-0.9-2.3v-0.1C38.8 41 39.1 40.3 39.7 39.7zM19.8 37.8l-9.2 7.1v5.2h19.5v-5.6H19.9l4.2-3c0.9-0.7 1.7-1.3 2.4-1.9 0.7-0.6 1.3-1.3 1.8-1.9 0.5-0.7 0.9-1.4 1.1-2.2 0.2-0.8 0.4-1.7 0.4-2.7v-0.1c0-1.2-0.2-2.2-0.7-3.2 -0.4-1-1.1-1.8-1.9-2.5 -0.8-0.7-1.8-1.2-2.9-1.6 -1.1-0.4-2.3-0.6-3.7-0.6 -1.2 0-2.3 0.1-3.2 0.4 -1 0.2-1.8 0.6-2.6 1 -0.8 0.4-1.5 1-2.2 1.7 -0.7 0.7-1.4 1.4-2 2.3l4.6 3.9c1-1.1 1.8-1.9 2.6-2.4 0.7-0.5 1.5-0.8 2.3-0.8 0.8 0 1.5 0.2 2 0.7 0.5 0.4 0.8 1.1 0.8 1.8 0 0.8-0.2 1.5-0.7 2.1C21.7 36.1 20.9 36.9 19.8 37.8zM43.8 10.2h0.5c1.5 0 2.7-1.2 2.7-2.7V2.7C47 1.2 45.8 0 44.3 0h-0.5c-1.5 0-2.7 1.2-2.7 2.7v4.9C41.2 9 42.4 10.2 43.8 10.2zM18.6 10.2H19c1.5 0 2.7-1.2 2.7-2.7V2.7C21.7 1.2 20.5 0 19 0h-0.5c-1.5 0-2.7 1.2-2.7 2.7v4.9C15.9 9 17.1 10.2 18.6 10.2zM58.7 19.9h3.9V7.3c0-1.3-1.1-2.4-2.4-2.4H48v2.7c0 2-1.6 3.6-3.6 3.6h-0.5c-2 0-3.6-1.6-3.6-3.6V4.9H22.7v2.7c0 2-1.6 3.6-3.6 3.6h-0.5c-2 0-3.6-1.6-3.6-3.6V4.9H2.8c-1.3 0-2.4 1.1-2.4 2.4v12.6h3.9H58.7zM58.7 21.9v33.5c0 0.8-0.2 1-1 1H5.2c-0.8 0-1-0.2-1-1V21.9H0.3v36c0 1.3 1.1 2.4 2.4 2.4h57.4c1.3 0 2.4-1.1 2.4-2.4v-36H58.7z"/></svg>Calendar</a>
+<a href="https://skystu.jordan.k12.ut.us/scripts/wsisa.dll/WService=wsEAplus/fwemnu01.w"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" x="0" y="0" viewBox="-49 253 512 400" xml:space="preserve"><path d="M78.8 502C18.9 502-17 476.4-17 476.4 50.2 433-28 253 117.1 253c27.2 0 35.4 15.9 35.4 15.9 12.3 0 22.1 2.4 30.1 6.6 -12.4 17.2-18 40.4-17.1 71.7 -2.5 1.8-4.9 4-7.2 6.7 -12.5 15.4-8.9 36.4-7.7 43.3 2 11.4 7.2 41.8 31.5 53.1 5.6 17.3 15.5 32.5 27.5 45.1 -14.1 3.7-30.9 6.6-50.6 6.6v22.6l-1.3 4.2c0 0-0.1 0-0.2 0.1 -1.5 0.6-3.2 1.2-5.1 1.9 -14.5 5.3-42.9 15.9-57.7 44.2L79 524.8V502h-0.1H78.8zM85.4 629.7v-12.8L58.5 589H14.2L63 525c-21.7 4-53 13.7-58.6 16 -16.5 6.9-53.4 27.4-53.4 75.1v13.6c0 12.9 9.4 23.3 21 23.3H91.4C87.7 646 85.4 638.2 85.4 629.7zM407 552.6c-7.7-3-29.5-10.1-47.3-16.8l-32 89.6 -29.4-49.5c4.7-3.3 19.2-15.3 19.2-28.8 0-13.5-15.4-22.1-29.8-22.1s-31.1 8.6-31.1 22.1c0 13.5 14.5 25.5 19.2 28.8l-29.4 49.5 -31.7-89.6c-17.9 6.9-39.6 13.6-47.6 16.8 -17.3 6.9-56 15.9-56 63.6v13.6c0 12.9 9.9 23.3 22 23.3h308c12.2 0 22-10.4 22-23.3v-13.6C463 568.4 424.2 559.5 407 552.6zM397.9 392.9c-4.9 28.7-10.4 36.1-23.9 36.1 -1 0-2.5-0.1-3.8-0.3 -6.4 48.5-57.2 80.3-83.4 80.3 -26.2 0-76.7-31.6-83.3-80 -0.3 0-0.5 0-0.8 0 -13.3-0.1-21.9-7.6-26.8-36.1 -4.2-24.5 5.2-27.4 16.5-27.8 -8-77.5 20.2-96.1 66.5-96.1 0 0-3.1-16 21.2-16 38.6 0 119.9 28.8 99.4 112C391.6 365.2 402.3 367.1 397.9 392.9z"/></svg>Parent Portal</a>
+<a href="/apps/classes/"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" x="0" y="0" viewBox="0 0 50.4 52.1" enable-background="new 0 0 50.4 52.1" xml:space="preserve"><path d="M46.9 32.1h-9.4c-0.8 0-0.8 1.3 0 1.3h9.4C47.7 33.3 47.7 32.1 46.9 32.1zM46.9 35.6H38c-0.8 0-0.8 1.3 0 1.3h8.9C47.7 36.9 47.7 35.6 46.9 35.6zM49.2 38.3H37.4c-0.3 0-0.7-0.5-1.1-1.3 -2.1-4.5 0-10 1.1-10 3.9 0 7.8 0 11.8 0 1.7 0 1.7-2.5 0-2.5H23.1c0.7-0.4 1.4-0.9 2-1.5 5.1-5.2 4.6-14.5-1-16.1v0c0 0-0.1 0-0.3-0.1l0 0c-2.2-0.5-3.1-0.1-4.4 0.4 -0.4 0.2-0.8 0.3-1.2 0.4 0.6-2.6 1.7-4.6 3.5-6 0.7-0.4 0-1.5-0.7-1 -1.5 1-2.5 2.4-3.1 4 -0.6-3-2.7-4.1-6.3-4.7 0.2 4.4 2.2 5.7 5.4 7.7 -1.9-0.3-3-2-6.7 0.2C9.9 8.1 9.7 8.3 9.4 8.6c-3 2.7-2.8 8.2-0.7 11.9 0.8 1.3 2.3 3.1 4 4.1H4.4c-1.4 0-2.5 1.1-3.3 2.7 -2.4 5.3-0.6 13.5 3.3 13.5h17.4c0.2 0 0.5 0.4 0.7 0.9 1.6 3.1 0.2 7.9-0.9 7.9H3.8c-1.7 0-1.7 2.5 0 2.5v0h41.7c3.9 0 5-7.3 3.2-11.3h0.4C50.9 40.8 50.9 38.3 49.2 38.3zM10 13.7C8.9 13 11.5 8.4 13.1 10 14.2 10.9 11.5 14.7 10 13.7zM3.3 28.3C4.1 26.7 4.2 27 6.6 27c-1.6 3.3-1.6 11.3 0 11.3H4.4C3.3 38.3 1.3 32.8 3.3 28.3zM10.1 38.4c-0.6 0-0.8 0-1.4-1.3 -2.1-4.5 0-10 1.1-10v0h0.4C8.4 30.2 8.4 35.1 10.1 38.4zM13.2 38.3c-0.3 0-0.7-0.5-1.1-1.3 -2.1-4.5 0-10 1.1-10v0h21c-1.6 3.1-1.6 7.9 0 11.3H13.2zM40.5 49.6H24.7c1.2-2.5 1.2-8.8 0-8.8h15.9c0.2 0 0.5 0.4 0.7 0.9C43 44.9 41.6 49.6 40.5 49.6zM46.4 48.7c-0.6 1.3-0.8 1-2.8 1 1.2-2.6 1.2-8.8 0-8.8h2.1C46.8 41.3 47.9 45.8 46.4 48.7zM46.9 28.3H38c-0.8 0-0.8 1.3 0 1.3h8.9C47.7 29.6 47.7 28.3 46.9 28.3zM19.4 30.8h-3.7c-0.8 0-0.8 1.3 0 1.3h3.7C20.3 32.1 20.3 30.8 19.4 30.8zM19.4 33.1h-3.7c-0.8 0-0.8 1.3 0 1.3h3.7C20.3 34.4 20.3 33.1 19.4 33.1zM39.3 44h-7.2c-0.7 0-1.2 0.6-1.2 1.3 0 0.7 0.6 1.3 1.2 1.3h7.2c0.7 0 1.2-0.6 1.2-1.3C40.5 44.5 40 44 39.3 44zM21.3 41.9H4.5c-0.8 0-0.8 1.3 0 1.3h16.9C22.1 43.1 22.1 41.9 21.3 41.9zM21.3 44.6H5.1c-0.6 0-0.6 1.3 0 1.3h16.2C22.1 45.8 22.1 44.6 21.3 44.6zM4.5 48.4h16.9c0.8 0 0.8-1.3 0-1.3H4.5C3.6 47.1 3.6 48.4 4.5 48.4z"/></svg>Homework</a>
+<a href="/apps/maps/"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" x="0" y="0" width="308.7" height="466.6" viewBox="0 0 308.7 466.6" xml:space="preserve"><path d="M154.3 0C69.2 0 0 69.2 0 154.3c0 34.3 21.9 90.2 66.9 170.8 31.8 57.1 63.2 104.6 64.5 106.6l22.9 34.8 22.9-34.8c1.3-2 32.6-49.6 64.5-106.6 45-80.7 66.9-136.6 66.9-170.8C308.7 69.2 239.4 0 154.3 0zM154.3 233.3c-44.2 0-80-35.8-80-80s35.8-80 80-80c44.2 0 80 35.8 80 80S198.5 233.3 154.3 233.3z"/></svg>Directions</a>
+</nav>
+
+<script type="text/javascript" charset="utf-8" src="/apps/js/jquery/1.11.0/jquery-pack-1670958788015.js"></script>
+<script>
+	window.onload = init;
+	var topnavButton = document.getElementById('sitenav_main_mobile_toggle');
+	var topnavDisplay = document.getElementById('sitenav_main');
+
+	function init() {
+		topnavButton.onclick = toggleNav;
+	}
+
+	function toggleNav(){
+		topnavDisplay.classList.toggle("open");
+		topnavButton.classList.toggle("open");
+	}
+</script>
+<script src="/apps/js/common/jquery-accessibleMegaMenu.2.js"></script>
+<script>
+	document.addEventListener('DOMContentLoaded', function() {
+		$(function() {
+			$('#sitenav_main').accessibleMegaMenu({
+				openOnMouseover: true
+			});
+		});
+	});
+</script>
+<script src="/apps/webapps/common/slick/1.8.0/slick-pack.js"></script>
+</body>
+</html>
+
+
+<!-- 135ms -->
+
